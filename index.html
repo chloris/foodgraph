@@ -27,7 +27,13 @@ graph.newEdge(s5, s7, {color: '#333333'});
 
 jQuery(function(){
     var springy = jQuery('#springydemo').springy({
-        graph: graph
+        graph: graph,
+        nodeSelected: function(node) {
+    s8 = graph.newNode({label: '煙燻鮭魚沙拉 1'}),
+    s9 = graph.newNode({label: '煙燻鮭魚沙拉 2'});
+graph.newEdge(s6, s8, {color: '#ff0000'});
+graph.newEdge(s6, s9, {color: '#ff0000'});
+        }
     });
 });
 </script>
