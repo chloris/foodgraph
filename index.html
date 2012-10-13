@@ -1,0 +1,37 @@
+
+<html>
+<body>
+<script src="jquery.min.js"></script>
+<script src="springy.js"></script>
+<script src="ui.js"></script>
+<script>
+var graph = new Graph(),
+    s1 = graph.newNode({label: '綠咖哩起士烤鮮魚'}),
+    s2 = graph.newNode({label: '沙嗲活菌豬串燒'}),
+    s3 = graph.newNode({label: '起士焗烤蟹肉'}),
+    s4 = graph.newNode({label: '培根起士焗磨菇'}),
+    s5 = graph.newNode({label: '義式生牛肉'}),
+    s6 = graph.newNode({label: '煙燻鮭魚沙拉'}),
+    s7 = graph.newNode({label: '義大利香煎雞柳'});
+
+graph.newEdge(s1, s2, {color: '#333333'});
+graph.newEdge(s1, s3, {color: '#333333'});
+graph.newEdge(s1, s5, {color: '#333333'});
+graph.newEdge(s2, s5, {color: '#333333'});
+graph.newEdge(s2, s6, {color: '#333333'});
+graph.newEdge(s3, s4, {color: '#333333'});
+graph.newEdge(s3, s5, {color: '#333333'});
+graph.newEdge(s3, s7, {color: '#333333'});
+graph.newEdge(s4, s6, {color: '#333333'});
+graph.newEdge(s5, s7, {color: '#333333'});
+
+jQuery(function(){
+    var springy = jQuery('#springydemo').springy({
+        graph: graph
+    });
+});
+</script>
+
+<canvas id="springydemo" width="1024" height="768" />
+</body>
+</html>
