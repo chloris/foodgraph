@@ -224,7 +224,9 @@ jQuery.fn.springy = function(params) {
 			}
 		},
 		function drawNode(node, p) {
-			var s = toScreen(p);
+			var s = toScreen(p),
+                data = node.data,
+                img;
 
 			ctx.save();
 
@@ -250,8 +252,15 @@ jQuery.fn.springy = function(params) {
 			ctx.font = "16px Verdana, sans-serif";
 			ctx.fillStyle = "#000000";
 			ctx.font = "16px Verdana, sans-serif";
-			var text = typeof(node.data.label) !== 'undefined' ? node.data.label : node.id;
+			var text = typeof(data.label) !== 'undefined' ? node.data.label : node.id;
 			ctx.fillText(text, s.x - boxWidth/2 + 5, s.y - 8);
+
+            if (typeof(data.image) !== 'undefined') {
+                img = new Image();
+                img.src = data.image;
+                img.title = data.label;
+                ctx.drawImage(img, s.x, s.y);
+            }
 
 			ctx.restore();
 		}
