@@ -12,6 +12,8 @@ USER STORY
 
 TODO
 ====
-1. added image for each node
-2. remove "direction" from edge
-3. add event listener while clicking node / edge
+1. <del>added image for each node</del>
+2. <del>remove "direction" from edge</del>
+3. <del>add event listener while clicking node / edge</del>
+4. display a set of dishes in a group
+5. beautify results, stay tuned
