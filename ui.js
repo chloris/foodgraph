@@ -226,6 +226,7 @@ jQuery.fn.springy = function(params) {
 		function drawNode(node, p) {
 			var s = toScreen(p),
                 data = node.data,
+                radius,
                 img;
 
 			ctx.save();
@@ -259,6 +260,10 @@ jQuery.fn.springy = function(params) {
                 img = new Image();
                 img.src = data.image;
                 img.title = data.label;
+                ctx.beginPath();
+                radius = img.width < img.height ? img.width/2 : img.height/2;
+                ctx.arc(s.x + img.width/2, s.y + img.height/2, radius, 0, 2 * Math.PI, false);
+                ctx.clip();
                 ctx.drawImage(img, s.x, s.y);
             }
 
