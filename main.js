@@ -3,8 +3,6 @@
 function attachEvents() {
     $('.ingredients').on('click', 'li', function (e) {
         var el = e.currentTarget;
-        console.log(e, 'e');
-        console.log(el, 'el');
     })
 }
 
@@ -54,8 +52,8 @@ function attachEvents() {
                 var s8 = graph.newNode({ label: '煙燻鮭魚沙拉 1', image: './img/s6.jpg' }),
                     s9 = graph.newNode({ label: '煙燻鮭魚沙拉 2', image: './img/s6.jpg' });
 
-                graph.newEdge(s6, s8, { color: '#ff0000' });
-                graph.newEdge(s6, s9, { color: '#ff0000' });
+                graph.newEdge(s6, s8, { color: '#ff0000', directional: false });
+                graph.newEdge(s6, s9, { color: '#ff0000', directional: false });
             }
         });
     });

@@ -1,0 +1,16 @@
+html {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkCAMAAABw8qpSAAAANlBMVEX+/v78/f3////9/v77/P39/f76+/z3+fr+/v/+///4+vv8/P37/Pz9/f35+vv5+/v4+vr4+foVT4CyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADJJREFUCNd9wUcOACAIADDce/3/sxLlYiS0EOBeMCHTjgf2tGL7LacSNuyehimLNFHN3+sNAdr+RKnSAAAAAElFTkSuQmCC) repeat-x 0 0;
+}
+
+.ingredients li {
+    display: inline-block;
+    width: 200px;
+}
+
+.ingredients li:hover {
+    background-color: pink;
+}
+
+.content {
+    margin-top: 1px solid silver;
+}
