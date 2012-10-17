@@ -262,7 +262,7 @@ jQuery.fn.springy = function(params) {
                 img.title = data.label;
                 ctx.beginPath();
                 radius = img.width < img.height ? img.width/2 : img.height/2;
-                ctx.arc(s.x + img.width/2, s.y + img.height/2, radius, 0, 2 * Math.PI, false);
+                ctx.arc(s.x + radius, s.y + radius, radius, 0, 2 * Math.PI, false);
                 ctx.clip();
                 ctx.drawImage(img, s.x, s.y);
             }
