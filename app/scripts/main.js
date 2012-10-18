@@ -45,7 +45,6 @@ $.getJSON('/conf/ingredients.json', function (data) {
 });
 
 function draw(id) {
-    if (springy && 'function' === typeof springy.clear) { springy.clear(); }
     graph = new Graph();
 
     var r = all[id],

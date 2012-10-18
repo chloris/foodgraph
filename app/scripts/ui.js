@@ -308,13 +308,6 @@ jQuery.fn.springy = function(params) {
 		return false;
 	}
 
-    this.clear = function () {
-        var canvas = this[0],
-            ctx = canvas.getContext("2d");
-
-        ctx.clearRect(0,0,canvas.width,canvas.height);
-    };
-
 	return this;
 }
 
