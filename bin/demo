@@ -1,0 +1,1 @@
+java -Xms800M -Xmx800M -jar MenuPlanner.jar 44,19,1181,945

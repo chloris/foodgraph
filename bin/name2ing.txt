@@ -1,0 +1,5073 @@
+thyme sprig	962
+melon liqueur	2344
+red zinfandel wine	4432
+tomato with garlic	2585
+snow pea pod	2674
+thai basil	1739
+egg white	79
+passion fruit juice	2601
+vanilla-flavored soymilk	1562
+white sauce	2571
+camembert cheese	2015
+ribbon	4101
+unsifted flour	4750
+poultry seasoning	376
+raspberry liqueur	2284
+whole-wheat bread	523
+rehydrated sun-dried tomato	4836
+guava nectar	3403
+mango	271
+black bean paste	4046
+locatelli cheese	3883
+pigeon pea	3133
+fat-free mozzarella cheese	1622
+pork mince	2819
+sugar-free low-calorie lemonade mix	4364
+citrus slice	4694
+treacle	3204
+self rising flour	821
+breadcrumb and parmesan cheese	4692
+baking apple	1461
+powdered sugar icing	3941
+unsweetened frozen peach slice	3596
+roasted chicken	3464
+guacamole	709
+lipton recipe secrets savory herb with garlic soup mix	3213
+lager beer	2130
+italian tomato sauce	4341
+honey graham cracker	2985
+baby beet	3555
+frozen o'brien potato	4572
+artichoke bottom	3988
+vegan sour cream	3737
+dried oregano	71
+semi-sweet vegan chocolate chip	2727
+knorr leek soup mix	4194
+dry tapioca	3018
+chocolate butter frosting	5014
+roast chicken	4558
+lettuce	201
+frozen green pea	609
+veal scallopini	3283
+chili bean	832
+swordfish fillet	2017
+leftover potato	2503
+turkey broth	1878
+midori melon liqueur	1182
+red grapefruit	4262
+seedless european cucumber	4183
+lime leaf	2636
+butter recipe cake mix	1903
+yellow curry paste	3776
+smoked oyster	3200
+hot oil	3844
+mushroom stem piece	1515
+red curry paste	1030
+mung bean	3591
+thai chili paste	4352
+butterscotch pudding mix	2311
+fat-free sugar-free instant chocolate pudding mix	2788
+allspice berry	1278
+instant oat	2471
+chocolate icing	4545
+tostados	5045
+cashew	325
+white tequila	2728
+cinnamon syrup	4180
+popsicle mold	4633
+roasted sesame seed	2668
+bread machine yeast	836
+french vanilla pudding mix	4315
+sazon goya con culantro y achiote	4232
+perch fish fillet	4201
+hard-cooked egg	1124
+dark honey	4292
+basil	57
+streaky bacon	2079
+hollandaise sauce	2931
+green decorator sugar	4785
+sirloin steak	635
+turkey sausage	1815
+digestive biscuit	3052
+bosc pear	1688
+mussel	996
+mango puree	2938
+curry leaf	916
+mango pulp	3644
+short-grain white rice	3723
+pineapple preserve	2173
+rice paper sheet	2838
+jam	1039
+heinz chili sauce	2071
+barley malt	4566
+curd cottage cheese	882
+pomegranate seed	1444
+red miso	3313
+pumpkin	206
+macaroni shell and cheese	3906
+new mexico chili powder	2764
+miniature party rye rounds	4707
+rose petal	2827
+beet leaf	3068
+reduced-fat whipped topping	3337
+frozen artichoke heart	1458
+spanish olive	3053
+baby spinach leaf	511
+butter-flavored fat-free cooking spray	5052
+garlic powder	29
+vanilla soymilk	2960
+habanero pepper	894
+low-sodium low-fat chicken broth	2030
+sweet pepper	1345
+mixed food coloring	4697
+monterey jack and cheddar cheese blend	1332
+spinach leaf	504
+spam	1653
+bread and butter pickle	3269
+red jalapeno chili	2753
+italian seasoning	174
+spring onion	315
+morel	3190
+dill	176
+celery soup	3627
+fish stock	1526
+turkish bread	4647
+high-gluten flour	4718
+spanish paprika	2845
+turkey breast	764
+stout beer	2891
+purple plum	3585
+banana flavoring	3742
+buttered rice	4998
+turkey breast tenderloin	2370
+roasted vegetable	4965
+broccoli cheese soup	3527
+button mushroom	334
+light sour cream	460
+mrs dash's extra spicy seasoning	4691
+peach	252
+frozen french-cut green bean	2664
+salt-free garlic and herb seasoning	4949
+all-purpose seasoning	2740
+angel hair pasta	3961
+ghee	803
+biscuit	1326
+ramen noodle	855
+mayonnaise	41
+chocolate-covered toffee bit	4210
+liquid dish soap	3481
+refrigerated pizza crust	2002
+garlic pepper seasoning	1285
+creme de menthe	1791
+nama shoyu	4454
+yellow onion	130
+spices and herb	5067
+fire-roasted tomato	2695
+broth	614
+mincemeat	1604
+orange puree	4948
+vegetable juice	1835
+halibut	4966
+soft breadcrumb	617
+penne pasta	300
+frozen pierogi	3700
+unsweetened dried coconut	1747
+chicken piece	475
+chocolate milk	1777
+weet-bix	4236
+hot hungarian paprika	4037
+mild molasses	3702
+rindless bacon	2572
+sesame oil	122
+minestrone soup	3800
+cream of tartar	280
+hawaiian bread	4961
+fat-free lemon yogurt	3642
+mushroom piece	1424
+espresso powder	1787
+powdered fruit pectin	2658
+hamburger	409
+saltine	1597
+turkey liver	5071
+chicken breast fillet	994
+dried currant	1136
+hot bean paste	4295
+navel orange	945
+back bacon	3972
+roasted sweet red pepper	2304
+sweet chocolate	4421
+fudge cake mix	2927
+blueberry yogurt	4307
+dried lima bean	2878
+pink bean	2945
+white asparagus	3601
+sparkling apple cider	3521
+decorating gel	4578
+dried mint flake	3832
+brandy	307
+bean sprout	412
+seasoning	854
+buttermilk ranch salad dressing mix	3548
+onion seed	3816
+salt pork	1344
+carrot curls	5006
+portobello mushroom cap	4673
+italian sausage	342
+garlic oil	2712
+red caviar	4807
+corn cob	4099
+smoked paprika	621
+plain dried breadcrumb	3054
+parsley root	4763
+fenugreek leaf	4222
+parboiled rice	3893
+green jalapeno chili	3603
+soy chorizo	4530
+portabella mushroom	480
+ground rosemary	2276
+beef tip	3842
+cocoa butter	3602
+potato gnocchi	4213
+pecorino cheese	1643
+whole-wheat couscous	2656
+brown breadcrumb	4452
+pita bread	596
+arabic seven spice	4852
+pearl tapioca	3160
+golden grahams cereal	2542
+reduced-fat margarine	2174
+beef sirloin tip	4485
+dried prune	2314
+whole-wheat lasagna noodle	2692
+english toffee-flavored candy bar	4299
+tofu	439
+applewood-smoked bacon	4672
+skewer	1434
+hot vegetable stock	3098
+stir-fry sauce	2316
+sponge cake	2801
+sweetened strawberry	4712
+sweet green pepper	1205
+bleu cheese salad dressing	1716
+coffee bean	2501
+beef bouillon granules	4991
+frozen bell pepper	3367
+gluten-free pasta	4092
+coarse salt and pepper	2003
+day-old french bread	2804
+chocolate graham wafer pie crust	3437
+frozen tortellini	3532
+frozen hash browns	529
+canadian bacon	4727
+sandwich bun	1422
+herb	544
+white pearl onion	1043
+mild chili powder	1848
+rack of lamb	3535
+creamed cottage cheese	3306
+emmenthaler cheese	1844
+pork stew meat	4521
+ground savory	4050
+andes mint candy	3249
+bourbon	532
+almond milk	1685
+tropical fruit	4829
+low-moisture part-skim mozzarella cheese	3890
+salted mixed nut	3287
+instant coconut cream pudding mix	2769
+pork shoulder	787
+seedless strawberry jam	4217
+reduced-fat cream cheese	797
+grit	2240
+v 8 juice	4607
+coconut syrup	3574
+nectarine	1146
+sweet pickle juice	2424
+teriyaki sauce	557
+spanish rice	3782
+creole seasoning	661
+vegan sugar	3348
+butternut squash	381
+shoulder lamb chop	2750
+queso fresco	1478
+celery leaf	1268
+pecan halve	429
+pork sausage	696
+turkey tenderloin	3918
+italian cheese blend	1294
+white rice	336
+reduced-fat evaporated milk	4535
+low-fat flour tortilla	3762
+vegetarian refried bean	3217
+garlic-infused olive oil	3687
+coleslaw mix	777
+broccoli floret	256
+orange blossom honey	4374
+french dressing	1349
+red potato	203
+anise	3020
+gluten-free self-raising flour	4044
+rib	3681
+citrus-infused vodka	2200
+green onionwith top	4743
+pesto sauce	471
+guava	4695
+unsulphured molasses	1886
+unsalted ketchup	3867
+chunk ginger	4351
+sauteed mushroom	3738
+sugar-free strawberry jam	3465
+chayote	3892
+soft silken tofu	2663
+sugar	3
+dulce de leche	3398
+asian chili-garlic sauce	3233
+onion ring	3062
+chocolate chip	155
+fat-free refried bean	1359
+hickory smoked bacon	3510
+sifted cake flour	1244
+balsamic vinaigrette dressing	4676
+coconut essence	3360
+hot pasta	4795
+crawfish tail	2579
+eye of round roast	3168
+green lentil	1269
+dark creme de cacao	1918
+cocoa krispies® cereal	3110
+italian-style stewed tomato	1258
+smoked turkey	1805
+ketjap manis	1850
+coarse salt and black pepper	4625
+98% fat-free cream of mushroom soup	2057
+bulgur	1260
+toasted breadcrumb	2874
+plain croissant	2226
+kosher sea salt	2527
+wondra flour	2416
+spicy hot v8 juice	2756
+soup	3797
+almond syrup	3559
+pretzel stick	1447
+vanilla bean	629
+kirby cucumber	3454
+aunt jane's krazy mixed up salt	4941
+ketchup	91
+bocconcini	2402
+meaty ham bone	3215
+chicken tenders	728
+ham steak	1620
+hormel real bacon bit	2634
+sage sprig	3066
+dark seedless raisin	3626
+dipping sauce	4656
+green onion with top	990
+prune baby food	4290
+chocolate-covered caramel candy	4868
+green cardamom pod	1459
+dried split yellow pea	4184
+rum	368
+dried lavender flower	2592
+dry ranch dressing mix	1183
+ground chicken	660
+besan flour	4014
+pineapple chunk in juice	1084
+frozen puff pastry sheet	2100
+instant potato	1493
+lavender flower	2066
+wheat flake cereal	4345
+basmati rice	527
+alfalfa sprout	1168
+dinner roll	2452
+sifted plain flour	4256
+french onion dip	2184
+gluten-free soy sauce	2892
+low-fat granola	2940
+parmesan cheese	18
+coarse pepper	5018
+red peppercorn	4365
+spray bottle	4716
+condensed cream of potato soup	2142
+light brown sugar	115
+non-dairy coffee creamer	1916
+tortellini	1926
+avocado oil	3715
+pastry shell	2928
+oregano flake	3851
+poached egg	4015
+almond paste	1394
+beef hot dog	3092
+broccoli slaw mix	2088
+pizza crust mix	4846
+butterscotch schnapps	1238
+lean beef	1397
+dry champagne	4305
+chinese white rice vinegar	3888
+chocolate fudge topping	1909
+all-purpose flour	16
+brie cheese	719
+dark chocolate curls	4704
+fleur de sel	4600
+cinnamon appleauce	3907
+puff pastry	816
+pimento stuffed olive	817
+seedless grape	1038
+nigella seed	2847
+apple butter	1197
+greek feta cheese	3671
+semi-sweet chocolate baking square	953
+grey poupon dijon mustard	2011
+stilton cheese	1884
+pink lemonade	4062
+dry onion	3539
+bartlett pear	2146
+sweet white onion	2273
+fig preserve	3298
+scotch whisky	2231
+eucalyptus essential oil	4865
+quick-cooking oat	369
+frozen spinach	169
+boiling potato	4493
+hot chili flake	2949
+kosher salt	72
+whole-grain bun	2793
+low-fat plain yogurt	458
+ham stock	3666
+low-fat mayonnaise	608
+millet flour	2737
+pie dough	4614
+toasted hazelnut	2093
+chip	2429
+italian salad dressing mix	885
+sauterne white wine	4440
+marmalade	2034
+sambal oelek chili paste	4312
+walnut	58
+mccormick grill seasoning	3074
+m&m's chocolate candy	1230
+goat cheese	443
+wax paper	2899
+whole-wheat capellini pasta	4235
+bechamel sauce	3107
+pear nectar	3341
+absolut vodka	3208
+chicken seasoning	4874
+salad supreme dry seasoning	4143
+watermelon	852
+frozen pizza dough	1636
+creamed coconut	4157
+black bean	143
+non-stick cooking spray	430
+metal skewer	4021
+country-style pork rib	1138
+devil's food cake mix	881
+seedless watermelon	1704
+pineapple rum	4873
+sazon goya	2518
+peach pie filling	2364
+low-fat italian salad dressing	3677
+toasted sesame seed	463
+dessert topping	5047
+ground allspice	254
+graham cracker	571
+frozen sweet pea	2102
+frozen ravioli	4377
+pumpkin seed	862
+stock	712
+light whipped topping	1991
+coarse sea salt	1144
+beef sausage	3485
+candied violet	5002
+frozen tiny pea	2752
+yeast	258
+unsweetened soymilk	2789
+appleauce	2841
+bow tie pasta	561
+butterfinger candy bar	2269
+stale breadcrumb	2862
+sole	4003
+white frosting	3259
+condensed cream of mushroom and garlic soup	3453
+flat bread	2715
+fruit punch	4182
+raspberry	327
+beef rib roast	4319
+yellow cheddar cheese	3558
+walnut oil	1209
+ruby red grapefruit juice	3205
+nonpareils	4850
+peel of lemon	1528
+green colored crystal sugar	5034
+dried apple	1455
+stir fry vegetable	3286
+sun-dried tomato paste	2502
+honey-roasted ham	2673
+light chunk tuna in water	2205
+cabbage	181
+sourdough roll	4358
+frozen peach slice	3128
+chocolate bark	4018
+dark chicken meat	4340
+mustard seed	421
+mashed sweet potato	4711
+plain sweet biscuit	3319
+rhubarb	525
+fat-free cheddar cheese	1196
+beef bouillon	850
+chinese wine	3033
+french onion soup mix	1833
+dry pasta	1549
+tricolor pepper	4623
+sweet whole kernel corn	3395
+wheat germ	440
+light kidney bean	3251
+long-grain and wild rice blend	1542
+green tomato	1169
+frozen chicken breast	1381
+hollandaise sauce mix	3503
+condensed cheddar cheese soup	1222
+lime	168
+solid-pack pumpkin	1049
+sugar pumpkin	3638
+frozen lemonade	1437
+vanilla flavor instant pudding and pie filling mix	2041
+red raspberry	2733
+peanut butter chip	948
+round roast	2875
+herb stuffing mix	1891
+refrigerated sugar cookie dough	1637
+dairy-free margarine	3717
+blueberry pie filling	1487
+frank's red hot sauce	1219
+caramelized onion	3014
+italian pork sausage	4455
+strawberry liqueur	3405
+uncle ben's converted brand rice	3868
+dried tomato	3365
+vanilla candy coating	3455
+ready-to-serve beef broth	3536
+chicken drumstick	772
+fat-free italian salad dressing	1640
+sesame seed	180
+whole-wheat pita bread	1361
+candy bar	3920
+ground hazelnut	2544
+peppermint oil	2871
+spice essence	3556
+rosemary	120
+reduced-fat sour cream	733
+chicken stock powder	1690
+white chicken meat	2329
+maple sugar	2557
+tinned tomato	3812
+cake	3225
+pancake mix	1438
+vitamin c powder	4039
+pear juice	3304
+orange curacao	3774
+honey mustard	818
+top ramen noodle	3487
+beef tenderloin steak	4571
+lavender oil	2313
+filet mignon steak	2400
+sultana raisin	2495
+dried lavender	2655
+dried fruit	1022
+cranberry juice	436
+pistachio nut	1319
+cumin seed	283
+rye bread	991
+almond butter	1606
+butternut pumpkin	2214
+double-acting baking powder	1647
+coriander seed	517
+pistachio pudding mix	3089
+corn kernel	521
+basil sprig	2000
+kirsch liqueur	4189
+paper	2177
+blueberry pomegranate infused red wine vinegar	4828
+instant powdered milk	3917
+pepper bacon	3714
+white chocolate curls	4103
+straw mushroom	2307
+italian-style tomato paste	4108
+rye flour	943
+dried savory	1914
+parsley sprig	812
+leaf lettuce	2444
+bloody mary mix	3765
+plum preserve	4131
+french-fried onion ring	1828
+orange peel	118
+amaretti cookie	3177
+chocolate wafer crumb	1988
+wheat bran	959
+puffed rice cereal	3392
+cinnamon sugar	950
+light muscovado sugar	2394
+alfredo sauce mix	4945
+whole-grain mustard	904
+rice chex	1399
+orange gelatin	1009
+baby dill pickle	3838
+unsweetened apple juice	1456
+shoestring potato	4071
+frozen fava bean	3598
+red bell pepper	74
+broccoli rabe	2566
+barley flour	2336
+frying oil	3125
+sun-dried tomato	335
+lean ground lamb	2169
+light ricotta cheese	2718
+spiral pasta	2962
+chow mein noodle	878
+hot dog bun	1121
+skor english toffee bit	2751
+calamari	3751
+feta	864
+plum tomato	238
+chicken flavor instant bouillon	4119
+romano cheese	353
+splenda sugar blend for baking	1705
+london broil beef	1922
+sweetened cocoa powder	4911
+gooseberry	3894
+sugar-free instant vanilla pudding mix	1417
+condensed milk	592
+colored sprinkle	2218
+daikon radish	2117
+bran bud	3968
+turnip	682
+red chili flake	1062
+rib roast	4156
+garlic seasoning	4783
+pork roast	1048
+instant vanilla pudding	508
+irish cream	552
+red grape tomato	3925
+hunts tomato sauce	2661
+vegetarian ground beef	2723
+szechwan pepper	2618
+tex-mex cheese	3778
+mixed olive	4848
+batter	4698
+center-cut pork loin roast	3785
+cherry juice	1962
+candied lemon peel	4057
+cherry preserve	2251
+strawberry preserve	1398
+dry oregano	1365
+file powder	2950
+goji berry	4810
+orange juice	65
+olive oil-flavored vegetable cooking spray	5031
+black tea leaf	3489
+hazelnut-flavored liqueur	2519
+sole fish fillet	1470
+yellow cornmeal	361
+real maple syrup	1391
+buffalo mozzarella	3146
+tomato puree	415
+crouton	749
+belgian endive	1744
+pork fillet	2049
+instant brown rice	1756
+unsalted margarine	1714
+pancake	4822
+godiva white chocolate liqueur	3619
+cream-filled chocolate sandwich cookie	2305
+sloe gin	4260
+lemon and mint	5027
+sweet and sour sauce	1668
+horseradish	246
+fajita tortilla	4224
+instant cappuccino mix	4550
+asian chili paste	3951
+fat-free dry milk powder	670
+kefalotiri	3819
+peanut butter	83
+sharp provolone cheese	3999
+sweet marsala wine	2509
+bourbon whiskey	2961
+rome apple	4114
+glutinous-rice flour	3789
+ziploc bag	2516
+cabbage leaf	2551
+au gratin potato mix	4350
+sour cream and coriander	5066
+kahlua	446
+philadelphia cream cheese	3119
+pectin	2487
+quick-cooking rice	3070
+italian breadcrumb	754
+salsa	112
+lamb stock	4409
+rocket	1808
+pie crust mix	3693
+unsweetened appleauce	388
+vanilla protein powder	2369
+refrigerated pie dough	3746
+green chili	107
+white grape juice	1592
+frozen strawberry	422
+lawry's seasoned salt	2439
+potatoe	4603
+green pepper ring	4494
+beef short rib	1608
+agave nectar	856
+ice cream cone	4959
+low-sodium chicken bouillon cube	4433
+shortcut bacon	3841
+fat-free cottage cheese	1012
+chili cheese corn chip	4755
+real vanilla extract	2432
+chipotle chili	655
+chocolate square	3821
+asparagus	198
+dried thyme	98
+whole-grain wheat flour	4223
+virginia ham	4153
+tomato and green chili	591
+chicken leg with thigh	2138
+mostaccioli pasta	2576
+tzatziki	2451
+white distilled vinegar	2209
+veal stock	3600
+uncle bens wild rice	4249
+turkey meat	2520
+salt water	3004
+fruit flavored hard candy	4976
+frankfurter	2234
+halloumi cheese	1905
+sweetened lime juice	3790
+bittersweet chocolate chip	1853
+toasted bread	2488
+cherry tomato	214
+potato flake	2401
+fruit jam	4658
+guajillo chili	3966
+golden rum	2608
+blade steak	4252
+pastrami	2687
+jojoba oil	4972
+dried chili flake	889
+plastic spoon	4952
+ricotta cheese	242
+ground coriander	183
+bay scallop	1296
+mushroom soup	1096
+brioche bread	2468
+dried yellow split pea	4068
+instant bouillon granule	3982
+shrimp	95
+granulated onion	2556
+light soya sauce	2481
+chai concentrate	4683
+strawberry jam	967
+mature cheddar cheese	2058
+parma ham	3635
+stuffed olive	2029
+log goat cheese	4097
+tony chachere's creole seasoning	3266
+jamaican jerk spice	2285
+rump roast	1550
+broccoli coleslaw mix	2259
+non-stick vegetable cooking spray	4244
+hard taco shell	4090
+tomatillo	724
+dried italian seasoning	633
+vanilla wafer	760
+red wine	232
+chocolate flavor instant pudding and pie filling mix	2815
+breadstick	3432
+tri-tip roast	3518
+capicola ham	3507
+splenda brown sugar	4758
+marinated artichoke heart	736
+cheddar cheese cube	4281
+roasted deli chicken	4373
+non-stick spray coating	2901
+nutmeat	3292
+coconut-flavored rum	840
+food coloring	767
+rump steak	2352
+jalapeno chili	80
+brown sauce	4996
+baking powder	17
+seasoned rice wine vinegar	2735
+dried italian spices	3827
+frozen yogurt	2489
+hershey's cocoa powder	2080
+garlic juice	3216
+sirloin tip steak	2309
+dried black bean	1435
+hard-boiled egg	204
+dry ground mustard	4449
+sweetened whipped cream	1248
+oreo cookie crumb	2535
+anise seed	1031
+sharp cheddar cheese	129
+jack daniels whiskey	1692
+sauvignon blanc wine	3772
+fenugreek seed	1284
+tamale	3567
+old bay seasoning	461
+baby back rib	2431
+blackberry preserve	3922
+marinade	1978
+pork and bean in tomato sauce	2933
+roasted pumpkin seed	4640
+frozen fat-free whipped topping	2971
+red chili paste	3199
+lavash bread	5021
+campanelle pasta	4082
+mild italian sausage	1377
+udon noodle	2064
+bamboo skewer	1354
+dried mushroom	1992
+liquid sweetener	4141
+hot red pepper	2028
+chinese vegetable	3127
+red wine and vinegar salad dressing	4424
+lean lamb	2738
+miniature marshmallow	395
+spiral shaped pasta	1650
+mexican-style tomato	1664
+chutney	1410
+chili sauce	316
+whole-grain baguette	4861
+green tea bag	2606
+cream-style cottage cheese	1813
+ground cumin	56
+hot cocoa	2611
+non-stick olive oil flavored cooking spray	4387
+black soy sauce	4137
+natural bran	1256
+frozen pineapple chunk	4231
+butter-flavored cooking spray	1186
+pippin apple	4634
+unsalted peanut	4383
+backfin crab meat	3144
+suet	3037
+four-cheese mexican blend cheese	2151
+dried marjoram	476
+powdered coffee creamer	2301
+dipping chocolate	3330
+cajun seasoning	419
+silver tequila	3420
+ham bone	1872
+maggi seasoning	2872
+pastas	4797
+corn flake crumb	997
+mixed wild mushroom	3807
+dark molasses	857
+reduced-fat coconut milk	4146
+broiler-fryer chicken	982
+shrimp cracker	5061
+bittersweet chocolate curls	4995
+jaggery	4038
+tiny pea	3897
+ground beef	55
+vanilla pod	2272
+pinot grigio wine	4070
+grape tomato	449
+quick-cooking grit	1776
+margarine	42
+whole-wheat macaroni pasta	2373
+unsweetened baking chocolate	1490
+condiments	3962
+coarse kosher salt	1841
+parmesan-romano cheese mix	2776
+kidney bean	260
+vegetarian instant vanilla pudding mix	4590
+savory	1210
+cream of onion soup	2912
+extra lean ground beef	1266
+lemon pudding mix	3686
+field mushroom	2688
+sweet italian sausage	1041
+cheese	149
+mirin	722
+dried bread	1717
+chocolate liqueur	1574
+chicken thigh	216
+gai lan	4898
+lemon verbena leaf	3229
+italian seasoned breadcrumb	526
+instant onion	831
+baby red potato	1519
+blood orange	2178
+white american cheese	3333
+meatloaf mix	4216
+raspberry vodka	2693
+white corn	1817
+dry mustard	116
+ground ginger	99
+turkish coffee powder	4815
+boston butt	3022
+morton tender quick salt	4255
+sugar syrup	1724
+frozen juice concentrate	4858
+virgin olive oil	757
+bleach	3913
+cider vinegar	141
+sushi rice	2191
+instant chicken broth	4250
+anaheim chili	1329
+sweet cherry	2366
+honey barbecue sauce	4832
+lemon balm leaf	4681
+leftover pork	4596
+quail	3997
+golden seedless raisin	3355
+hard margarine	2545
+frozen mango chunk	3724
+tart cherry	3595
+caramel apple dip	4484
+reduced-fat vanilla wafer	4430
+semi-sweet chocolate	306
+snow	4627
+baby eggplant	3756
+candied orange peel	2268
+dry parmesan cheese	3209
+white wine worcestershire sauce	3039
+turkey ham	3946
+instant espresso powder	1204
+beef stew meat	694
+toasted wheat germ	1511
+raspberry sorbet	4088
+hot green pepper	3884
+greek oregano	2573
+cheese cracker	2541
+dried apricot	319
+gouda cheese	1040
+pepperidge farm stuffing	3647
+multi-grain whole-wheat bread flour	4749
+mixed fruit	1945
+pumpernickel bread	1510
+vegan mayonnaise	1806
+maple bacon	4083
+refried black bean	3067
+milk chocolate candy bar	1578
+frozen italian cut green bean	3783
+splenda brown sugar blend	1058
+juice of lemon	139
+roast beef	1441
+albacore tuna	1859
+tamari	838
+chicken bouillon cube	346
+chocolate wafer cookie	2103
+hot roll mix	3994
+english seedless cucumber	3332
+low-fat monterey jack cheese	2598
+center-cut salmon fillet	3327
+topping mix	3734
+chicken leg	859
+seasoned stuffing mix	1034
+whole-wheat pasta	1673
+strawberry cake mix	2996
+hot cocoa mix	2896
+curry paste	1412
+gnocchi	2026
+soy oil	4411
+coriander stem	1106
+field greens	4912
+skim milk	163
+cumin powder	651
+cayenne pepper powder	1356
+sweet italian turkey sausage	2633
+vegetable broth	200
+creole spices	4778
+split pea	1386
+liquid honey	804
+littleneck clam	2725
+quail egg	4834
+dried chipotle powder	1087
+ascorbic acid	4863
+converted rice	2112
+chablis	2278
+country sausage	4439
+refrigerated reduced-fat crescent roll	2999
+provolone cheese	386
+fiesta nacho cheese soup	3495
+goya adobo seasoning	4963
+knob ginger	4886
+crisco	1025
+chili powder	52
+frozen pea	196
+seasoned crouton	1383
+lemonade	1110
+boursin cheese	2040
+soymilk	374
+ground round	1003
+lean ham	1915
+fruit	577
+wonton skin	2396
+chocolate whey protein powder	4237
+instant banana pudding mix	2625
+mild-flavored molasses	4915
+old cheddar cheese	1145
+anchovy fish fillet	735
+cinnamon schnapps	2909
+muscovado sugar	3692
+frozen french cheese ravioli	3463
+country-style rib	4517
+cold strong coffee	3044
+low-fat cooking spray	4242
+malted milk ball	2704
+sugar-free fat-free vanilla yogurt	4150
+roast pork	3546
+fast-rising active dry yeast	2196
+pork sausage casing	5060
+smoked link sausage	3378
+chili paste with garlic	1749
+sweet unsalted butter	1623
+dried shrimp	2632
+zesty italian salad dressing	3156
+brewed tea	3496
+i can't believe it's not butter® spread	2567
+amaretto liqueur	1297
+white chocolate baking bar	3291
+x-rated fusion liqueur	3016
+dried breadcrumb	208
+black-eyed pea	778
+reduced-fat chicken broth	3346
+instant vanilla flavor pudding and pie filling	2747
+soft bread	4276
+yellow pepper	528
+oil-cured black olive	2716
+pizza crust	835
+canola oil cooking spray	3076
+low-fat sour cream	555
+chocolate whipped cream	4496
+spreadable cheese with garlic and herb	2499
+dark chocolate cake mix	3316
+lime juice	60
+fine sea salt	3433
+brown onion	892
+chicken gumbo soup	3633
+scallion top	2039
+tartar sauce	2165
+bottom round roast	3050
+yellow lentil	3576
+rice milk	1336
+ground sirloin	901
+coriander powder	678
+white wine	135
+cornflour	414
+parsley stem	3886
+raisin	85
+relish	1849
+stone-ground yellow cornmeal	3457
+pretzel	824
+albacore tuna in water	1888
+frank's hot sauce	2998
+tangerine	1896
+brine	2965
+french style green bean	1228
+brown ale	4407
+quark	3590
+ground lamb	776
+reduced-fat baking mix	2084
+filet mignon	2513
+stewed apple	5070
+fat-free cream of chicken soup	3154
+cider	1814
+beef chuck steak	3310
+wine	1198
+wheat cereal	3488
+red capicum	646
+mild paprika	2690
+cod fish fillet	969
+grape-nut cereal	1748
+dessert apple	3973
+tuna fish	2060
+dried great northern bean	2230
+pepperoncini pepper juice	4967
+snow crab	4769
+pork and bean	851
+graham wafer crumb	1955
+firm tofu	2854
+blade roast	3854
+vanilla essence	509
+black peppercorn	333
+sweet white wine	3150
+wheat thins cracker	4228
+coconut	173
+buttermilk	90
+english muffin	706
+fat-free mayonnaise	740
+frosted flake	4209
+olive oil flavored cooking spray	774
+dried onion flake	384
+top sirloin steak	1599
+sugar cookie mix	2413
+ditalini pasta	2108
+chipotle chili sauce	4762
+hot red chili flake	4279
+all-purpose greek seasoning	1348
+ground sea salt	3235
+baking potato	2144
+amaranth	3414
+lemon frosting	5024
+sweet almond oil	4060
+rigatoni pasta	867
+spicy sausage	2873
+sockeye salmon	4105
+fat-free reduced-sodium beef broth	2694
+bulk sausage	1013
+baked ham	2531
+steak	650
+red jell-o	3745
+cranberry gelatin	4938
+yellow cake mix with pudding	2683
+fat-free tortilla chip	5039
+nestle toll house semi-sweet chocolate morsel	3554
+short rib of beef	2004
+taco-flour tortilla	3090
+red chili powder	648
+jagermeister	3725
+red currant	4000
+whole-wheat breadcrumb	1385
+bay leaf powder	3034
+dried blueberry	1948
+golden caster sugar	2609
+mild salsa	1420
+orange-flavored liqueur	1545
+perciatelli pasta	4662
+goose	4504
+unsweetened kool-aid powdered drink mix	3748
+thin pretzel stick	3490
+buckwheat flour	1504
+sour cream	27
+jalapeno chili cheese	4110
+wild mushroom	1946
+dark sesame oil	584
+vine-ripened tomato	4670
+penne rigate pasta	1880
+cinnamon-swirl bread	3359
+dried lavender blossom	3409
+pickled banana pepper	4664
+distilled vinegar	2729
+tomato ketchup	1046
+persimmon pulp	3354
+swiss chard	1085
+baguette	726
+lean stew meat	4166
+dried mixed herb	4552
+citron	4179
+low-fat graham cracker	3543
+lemon cake mix	1308
+parsley leaf	437
+english mustard	2095
+neufchatel cheese	1053
+red pepper jelly	4723
+pink salmon	1585
+barbecue rub	4688
+healthy request cream of mushroom soup	2952
+orange marmalade	466
+chestnut mushroom	3180
+condensed mushroom soup	3136
+beef chuck	1364
+coriander	40
+baby green	2020
+candied ginger	1151
+wheat hamburger bun	3182
+peanut sauce	3593
+full-fat milk	1773
+tamarind pulp	2111
+wholemeal flour	3118
+mild sausage	3194
+gruyere	1264
+liqueur	3088
+celtic sea salt	1483
+lime zest	2440
+dried berry	4665
+ranch dip mix	3296
+frozen english pea	3273
+dried italian breadcrumb	4820
+v 8 vegetable juice	2376
+frozen cut okra	2831
+fudge brownie mix	1809
+italian fontina cheese	4067
+strawberry yogurt	1834
+lowfat swiss cheese	5040
+chicken thigh piece	4259
+chocolate-flavored candy coating	3314
+meat	1339
+unsifted all-purpose flour	4671
+brussels sprout	607
+chicken quarter	2822
+chicken in a biscuit cracker	4257
+low-fat ranch dressing	3302
+craisin	964
+crisco cooking oil	2699
+tomatoe	4574
+evaporated milk	153
+tapioca	1985
+frozen non-dairy topping	2435
+dandelion green	4473
+mcintosh apple	1845
+tomato with onion and garlic	2777
+chicken breast strip	4371
+snow pea	499
+hard candy	4653
+lemon vinaigrette	5028
+phyllo dough	942
+bacardi dark rum	4725
+frangelico	1195
+country-style sparerib	3759
+yoghurt	1067
+brown gravy mix	1171
+bicarbonate of soda	786
+dry couscous	3935
+bacon	50
+lemongrass	562
+orange roughy fish	3781
+tortilla	565
+sour mix	2013
+mild chili	2876
+soy crumble	3720
+chicken wing sauce	5010
+smoked streaky bacon	3864
+chicken tenderloin	1451
+bran flake	1893
+chinese five spice powder	507
+pink grapefruit	1870
+pork loin chop with bone	2622
+malt drink powder	4165
+balkan yogurt	4979
+cream of shrimp soup	2829
+98% fat-free cream of chicken soup	1986
+pork sparerib	1366
+sesame seed oil	1679
+ground salt and pepper	4790
+almond liqueur	2746
+dried hot red pepper flake	3817
+white pepper	132
+frozen lemon juice	4462
+coconut flake	290
+bitter	3257
+french onion soup	1233
+mars bar	3226
+frozen orange juice	1281
+whole-wheat bread flour	3721
+red cabbage	605
+turkey carcass	2351
+white meat chicken	2866
+raspberry jelly	3551
+colored miniature marshmallow	3250
+italian-style tomato sauce	2703
+raisin bran cereal	2032
+green food coloring paste	5036
+zucchini	82
+white creme de cacao	1626
+butter pecan ice cream	3708
+red chili sauce	3085
+hot salsa	2053
+smoked turkey sausage	2867
+dry thyme leaf	3670
+dried sweetened cranberry	995
+condensed beef broth	1516
+unsweetened chocolate	478
+lavender blossom	4931
+dried porcini mushroom	4679
+phyllo pastry	1241
+cauliflower floret	681
+frozen tater tots	1279
+decorative candy	2795
+grouper fish fillet	2832
+oat flour	1443
+lean round steak	3876
+fat-free reduced-sodium chicken broth	853
+hot curry powder	2930
+mixed spice	1061
+beef rib	3210
+lettuce leaf	392
+italian herb seasoning	1544
+curry sauce	4841
+poblano pepper	1029
+white whole-wheat flour	1614
+jalapeno chili jack cheese	1792
+acini di pepe pasta	2529
+nut butter	4010
+baby bok choy	1589
+mixed berry	1707
+lemon juice concentrate	2597
+veal chop	3458
+wheat berry	2306
+thousisldressing	2877
+muenster cheese	1147
+dried tart cherry	1781
+mixed nut	1300
+roasted red pepper	323
+green leaf lettuce leaf	4678
+frozen concentrated orange juice	3371
+ham	154
+cinnamon oil	3983
+parmigiano-reggiano cheese	442
+ground coffee	1721
+mint sauce	4052
+veal shank	2992
+dried rosemary	239
+chive and onion cream cheese	1803
+instant lemon pudding	1818
+cinnamon stick	190
+vegetable stock cube	2206
+sparkling water	1369
+creamed horseradish	2450
+pork baby back rib	2246
+vanilla-flavored syrup	2350
+haddock fish	2859
+dark rye flour	4355
+frozen corn kernel	534
+dark chocolate bar	4380
+butter lettuce	1432
+spinach tortilla	4267
+blue curacao	1017
+mustard green	2375
+frozen pepper and onion	3424
+garam masala powder	1482
+peach halve in syrup	2805
+golden brown sugar	1042
+italian salami	4744
+thousand island dressing	1178
+ground parmesan cheese	3795
+dill pickle	602
+zest of grapefruit	4724
+halibut fish fillet	972
+beau monde spice	4246
+low-fat yogurt	1177
+pork loin chop	721
+unsweetened orange juice	2261
+apricot halve	1941
+spring roll wrappers	5050
+candied citron peel	3793
+frozen white pearl onion	3544
+unbleached bread flour	3187
+lancashire cheese	4506
+frozen broccoli spear	3617
+iceberg lettuce	487
+fat-free flour tortilla	3674
+cos lettuce	3606
+low-fat buttermilk	716
+leftover gravy	3808
+dark soya sauce	3129
+rich chicken broth	3764
+dried cherry	732
+salami	958
+chicken thigh fillet	1654
+scotch bonnet chili	4877
+artisan bread	4849
+soy cream cheese	4507
+boiling water	127
+chocolate bar	3483
+tuna in water	876
+preserved lemon	2059
+kasuri methi	4423
+white cheddar cheese	1140
+allspice	197
+soda cracker	2101
+light cheese	4809
+red swiss chard	4270
+chicken sausage	2808
+broken tortilla chip	3875
+bucatini pasta	4059
+aubergine	1758
+raspberry extract	4051
+onion	6
+pumpkin butter	4757
+mild pork sausage	3661
+porridge oat	2365
+candied pecan	3253
+steak sauce	1016
+fat-free sugar-free vanilla pudding mix	4064
+frozen blueberry	371
+whipped dessert topping mix	2830
+pomegranate juice	1082
+sweet red wine	3356
+frangelico liqueur	3794
+serrano pepper	946
+pineapple in juice	933
+whole-wheat tortilla	887
+shake-and-bake	2798
+dark rum	428
+peanut butter cup	2107
+pineapple	134
+whipping cream	110
+thin rice noodle	4349
+tomato	15
+reduced-fat italian salad dressing	3758
+balsamic glaze	4926
+pork steak	1760
+agar-agar	4437
+instant white chocolate pudding and pie filling mix	3149
+tomato juice	383
+mango juice	2730
+dry steak seasoning	4999
+sorbet	4297
+duncan hines yellow cake mix	3744
+enchilada sauce	647
+summer savory	2299
+rib chop	4598
+curly-leaf parsley	2630
+kirsch	1701
+spearmint	2087
+marjoram leaf	3080
+coriander leaf	226
+hickory flavored barbecue sauce	2823
+low-fat lemon yogurt	3780
+string bean	1936
+captain morgan's spiced rum	3288
+naan bread	2956
+french vanilla flavored coffee creamer	3323
+half-and-half	151
+star fruit	2887
+lime-flavored tortilla chip	4788
+mandarin orange segment	1208
+low-fat margarine	2300
+vegetable	845
+orange food coloring	2547
+raspberry pie filling	4526
+honeydew melon	1252
+clear vanilla extract	3561
+icing	1789
+date syrup	4962
+thin spaghetti	1130
+low-sodium chicken stock	4399
+gluten flour	2880
+sifted confectioners' sugar	1128
+instant minced onion	3960
+whipped heavy cream	2168
+chocolate sprinkle	1696
+quick-cooking barley	1877
+italian tomato	1214
+demerara sugar	1563
+unsweetened cranberry juice	3947
+tony chachere's seasoning	2669
+wok oil	4751
+poundcake	2115
+2% milk cheddar cheese	4880
+pita pocket bread	3478
+jicama	937
+pea	472
+vegetable bouillon granule	2242
+toasted pine nut	619
+instant chocolate fudge pudding	4154
+sweet pickle	1558
+chocolate crumb crust	2671
+rice vermicelli	2270
+andes mints candy	4773
+savoy cabbage	1379
+self raising flour	541
+pickling spices	1522
+wheat gluten	3063
+knorr vegetable soup mix	2543
+butter spread	1907
+beef bone with marrow	4333
+flat iron steak	4094
+pork loin roast	992
+lumpia skin	4147
+sweet baking chocolate	2984
+toasted pita bread	4548
+chickpea	249
+wheat flake	4482
+sweet basil leaf	3682
+french vanilla non-dairy coffee creamer	4086
+english mustard powder	3426
+hot red pepper sauce	1728
+pillsbury refrigerated crusty french loaf	4221
+butterscotch pudding	3639
+waxy potato	2283
+leaf thyme	3577
+ricotta	3061
+cream of wheat	2643
+guava paste	4066
+honeydew	2820
+dark muscovado sugar	3408
+frozen banana	800
+dried mango	3263
+monterey jack cheese	144
+mexican chocolate	2676
+mange-touts pea	3975
+bonito flake	4742
+napa cabbage	837
+mexican-style stewed tomato	2023
+bread round	4776
+beef shoulder	3473
+tomato and mild green chili	1927
+dill pickle spear	3709
+rolo chocolate	3091
+seltzer water	1618
+crumb	4793
+salt substitute	1488
+ground chicken breast	2644
+braeburn apple	4741
+hot chili paste	2734
+soymilk powder	4362
+loose leaf lettuce	4772
+cottage cheese	308
+chocolate piece	4451
+chicken stock cube	1118
+hamburger bun	377
+basil leaf	156
+pernod	2456
+pie crust	231
+instant lemon pudding mix	1780
+lean ground chuck	2675
+white cake mix	654
+ranch salad dressing	1175
+frozen pound cake	2327
+pear halve	3843
+frozen chicken wing	3230
+lemon extract	563
+baking cocoa	1270
+apricot juice	4481
+red leaf lettuce	1231
+gherkin	1837
+glace ginger	4443
+process american cheese	2267
+sandwich roll	4903
+nuoc cham sauce	4709
+candied fruit	2262
+white basmati rice	2320
+creme de cacao	1105
+dried rubbed sage	2038
+farina	3435
+watercress	1027
+low-sodium worcestershire sauce	3141
+artichoke	1097
+oatmeal	295
+red cayenne pepper	1847
+french's french-fried onion	4536
+pasta water	3889
+reduced-sodium worcestershire sauce	3446
+english walnut	3303
+fat-free tortilla	2141
+dried chipotle chili	2170
+pita bread round	2047
+dried white bean	2160
+dry marsala	3093
+asparagus tip	4233
+sweet-and-sour mix	1401
+salmon steak	1200
+water chestnut	294
+roasted chicken breast	2895
+masoor dal	4248
+mild vegetable oil	3980
+green olive	467
+turkey slice	4746
+granulated artificial sweetener	4845
+orange rind twists	4584
+seasoned rice vinegar	1165
+beef chuck roast	983
+seasoned salt and black pepper	4802
+hazelnut syrup	3511
+frozen potato	1374
+jell-o chocolate pudding and pie filling	3866
+dry sweetener	3542
+red radish	1730
+white hominy	2204
+tawny port	3462
+pineapple chunk	337
+veggie crumble	3013
+macadamia nut oil	3568
+cubanelle pepper	2651
+sauteed onion	3697
+fruit filling	4657
+corn tortilla	277
+dried chinese mushroom	2482
+low-sodium chicken broth	279
+vanilla pudding mix	1213
+raspberry gelatin	1133
+light spelt flour	4570
+strawberry syrup	2849
+bulk pork sausage	1613
+rosemary leaf	1033
+rice wine	868
+guar gum	2410
+dry cider	4284
+corn tortilla strip	4586
+dried brown lentil	2379
+quick oatmeal	1863
+ladyfinger	1440
+baked pie crust	1403
+deviled ham	2888
+rye cracker	5068
+marinated artichoke	1867
+whole-wheat linguine pasta	3519
+sazon goya with coriander and annatto	5055
+dried orange peel	2213
+crookneck yellow squash	2338
+short-grain rice	1406
+m&m's	1652
+smoked kielbasa	2879
+teriyaki marinade	2135
+low-fat parmesan cheese	2339
+pork bean	1616
+beef gravy	1152
+pepsi	2865
+reduced-fat graham cracker crust	2149
+sherbet	4261
+black soybean	4589
+rolled pork loin roast	4036
+sherry wine vinegar	753
+brazil nut	2409
+roll bounty paper towel	4813
+cheez-it cracker	3043
+light cheddar cheese	2238
+equal sugar substitute	4737
+shoe peg corn	3553
+frozen phyllo pastry	4040
+nicoise olive	2886
+gumdrop	2978
+soft goat cheese	1315
+tea tree oil	4047
+low-sodium tomato juice	4008
+condensed golden mushroom soup	1163
+dried shiitake mushroom	1669
+cayenne pepper sauce	2293
+cinnamon raisin bread	2070
+essential oil	2321
+gummy fish	5044
+collard green	1463
+white karo	2143
+chocolate flavored syrup	3757
+pork rind	3927
+reduced-fat feta cheese	1496
+chicken leg quarter	2741
+grey poupon	4185
+whole-wheat english muffin	2478
+german chocolate	3272
+whole-grain bread	1514
+ovaltine	3594
+libby's pumpkin	2806
+ground pepper	88
+paula deen's house seasoning	4843
+brewed coffee	789
+corona beer	4121
+vermicelli rice noodle	3767
+top round steak	1889
+cake mix	1375
+dried chervil	4191
+wasabi pea	3612
+spike seasoning	3531
+mixed sprout	2530
+green tea	2217
+pita chip	4385
+sriracha sauce	1788
+paper towel	4833
+sweet red pepper	358
+lemon yogurt	1800
+herb-seasoned stuffing cube	3803
+cracker meal	3736
+lukewarm water	710
+red raspberry preserve	3965
+syrup	1423
+spring roll wrapper	2564
+spray olive oil	5069
+salt and cayenne pepper	5064
+rye breadcrumb	4301
+stone ground dijon mustard	3196
+tahini	502
+braunschweiger sausage	4441
+passata	3108
+meatball	2315
+cayenne	188
+blackberry jam	3167
+heinz 57 steak sauce	1959
+salmon fillet	275
+buttercream frosting	4980
+piri-piri	4855
+southern comfort	1355
+white fish fillet	906
+spaghetti squash	1227
+deli ham	769
+green peppercorn	1796
+chocolate cake	3859
+scallion	94
+white chocolate	515
+lavender honey	4907
+filbert	4417
+spaghetti sauce mix	2812
+instant oatmeal	3343
+banana liqueur	1469
+rum flavoring	2188
+pineapple ring	1494
+roasted pistachio	3707
+unsweetened chocolate square	768
+dried parsley flake	454
+low-fat vanilla ice cream	2799
+butter flavor shortening	1162
+cream of celery soup	495
+vidalia onion	490
+ground cayenne pepper	582
+racks of baby-back pork rib	2626
+frozen wild blueberry	4438
+white flour	469
+cheddar cheese soup	928
+seven-grain cereal	4738
+rice bran oil	4534
+wheat gluten flour	4816
+venison steak	2924
+greek feta	4467
+sifted unsweetened cocoa powder	3402
+lightly whipped cream	5037
+grmarnier	1346
+skim evaporated milk	4139
+pumpkin pie spice	372
+frozen green bean	743
+bread cube	1855
+fruit loops cereal	4969
+vegetarian bacon	3322
+light molasses	1439
+orange oil	4919
+powdered cumin	3885
+candied peel	3630
+white raisin	2550
+kasseri cheese	4011
+red pepper sauce	1373
+refrigerated breadstick dough	2150
+pineapple-orange juice	3109
+dark chocolate chip	1211
+candy	4615
+navy bean	1090
+vanilla ice cream	278
+frozen pie crust	672
+balsamic vinaigrette	1425
+light vegetable oil cooking spray	4585
+extra virgin olive oil	48
+birds eye chili	2639
+refrigerated biscuit	4721
+strong coffee	785
+vodka	261
+textured vegetable protein	1784
+hoagie roll	987
+taco chip	3411
+bacardi limon	3933
+dried red lentil	1994
+alcohol	4602
+diet soda	4176
+pickled pepperoncini pepper	4934
+chocolate graham cracker crumb	2902
+hass avocado	1081
+solid white tuna	1919
+dried fenugreek leaf	2736
+italian spices	1254
+bagel chip	4988
+lemon	68
+white peppercorn	1967
+juices from cooked meat	5053
+marzipan carrot	5043
+toasted sesame oil	601
+japanese soy sauce	2885
+frozen waffle	3417
+powdered sugar	67
+lean pork	1135
+lime sherbet	2628
+cornmeal	217
+low-fat whipping cream	4111
+grated coconut	4544
+kitchen bouquet	1321
+ground pistachio	4937
+mushroom stock	4592
+sesame	4012
+olive juice	2922
+chicken drummettes	2051
+chicken stock	92
+goldschlager liqueur	3036
+chinese rice wine	2853
+red grape	1591
+french mustard	2016
+dried apricot halve	2164
+karo light corn syrup	3279
+oriental sesame oil	1687
+veg-all	2387
+cream cheese with vegetable	4375
+curry	1119
+certo	4321
+non-dairy milk	3926
+kitchen twine	3730
+danish blue cheese	4054
+tarragon vinegar	1148
+bun	1737
+ground lemon myrtle	4864
+garlic butter	2356
+dill weed	326
+sultana	739
+beef	403
+hot curry paste	4058
+strong cheddar cheese	4173
+refrigerated alfredo sauce	3587
+good seasoning italian salad dressing mix	2328
+grape leaf	2298
+sweet potato	172
+preserve	1666
+chicken bouillon granule	686
+beet	550
+dry buttermilk	1825
+black vinegar	3940
+beer	259
+pork loin	667
+gumbo file	3796
+sweet 'n low	2724
+sweetened condensed milk	189
+all-purpose gluten-free baking flour	4929
+season-all salt	1998
+unbaked pastry shell	2131
+blue corn tortilla chip	4620
+hot stock	4511
+green salad	4787
+mixed baby green	1507
+turkey neck	4661
+rosemary sprig	1056
+rice cereal	810
+chili without bean	1976
+hokkien noodle	2453
+onion flake	957
+fruity olive oil	3038
+floury potato	2616
+caraway seed	355
+sugar-free vanilla syrup	4837
+grapefruit soda	4687
+cream of tomato soup	3097
+turbinado sugar	1307
+seafood	2637
+barbecued pork	3909
+tilapia fish fillet	630
+hot chili bean	3271
+dried ancho chili	2183
+mild olive oil	4366
+russian salad dressing	2104
+southwest seasoning	2904
+culantro	4569
+instant decaf coffee	3637
+strawberry extract	4127
+turmeric powder	595
+sticky rice	4853
+amish starter	3138
+fat-free ricotta cheese	1602
+gingerroot	184
+chocolate hazelnut spread	2466
+prune puree	4034
+pickling cucumber	2194
+manwich sloppy joe mix	3769
+vanilla wafer crumb	1681
+vanilla chip	1934
+smoked cheddar cheese	2019
+light cream	366
+frozen cool whip	3468
+sandwich bread	1702
+low-fat milk	435
+witch hazel	3565
+chicken noodle soup	3788
+poppy seed	338
+hot sauce	179
+seedless raisin	1261
+maraschino cherry	328
+kale leaf	2947
+fusilli pasta	1357
+radish	533
+baby swiss cheese	4148
+lemon-flavored vodka	3646
+orzo pasta	497
+mineral water	2116
+ground chuck	496
+refrigerated cinnamon roll	4666
+buttered toast	4699
+white rum	984
+dark red kidney bean	1019
+fuji apple	1940
+spicy brown mustard	734
+purple basil	4905
+black greek olive	4444
+food coloring paste	5019
+custard	3171
+peppermint patty	3534
+all-bran cereal	1109
+confectioners' sugar	117
+buffalo wing sauce	2046
+peach slice in heavy syrup	4027
+vegetable oil cooking spray	3656
+apricot	1010
+toothpick	1014
+lite olive oil	1334
+mushroom cap	2155
+glaze	2900
+light red kidney bean	3340
+sausage	474
+soft corn tortilla	4029
+brown rice syrup	2549
+soup stock	3632
+powdered soy protein concentrate	3165
+raspberry vinaigrette dressing	2562
+fat-free cheese	3142
+dutch process cocoa	2762
+orange slice	932
+dried peach	2818
+mint leaf	268
+saffron	652
+mixed baby lettuces and spring green	3237
+chocolate ice cream topping	5016
+almond oil	2647
+pasta	287
+harissa	1546
+adobo sauce	891
+hot smoked paprika	4674
+butter	2
+long-grain rice	269
+pepper sauce	2959
+hp steak sauce	3148
+cuban bread	4876
+greek olive	2215
+white pea bean	4286
+white mushroom	666
+buckwheat groat	3051
+beet juice	3374
+sage	257
+country ham	3396
+sugar-free vanilla pudding mix	3777
+red delicious apple	1512
+edible flower	2855
+butter-flavored calorie-free cooking spray	4689
+sage leaf	624
+hoisin sauce	339
+bermuda onion	2445
+scallop	793
+tenderloin	4271
+frozen unsweetened strawberry	1754
+cranberry-raspberry juice	2635
+strong black coffee	1899
+baby carrot	321
+dried chili	1199
+lemon curd	1740
+dried tarragon	489
+corn on the cob	1619
+yellow cheese	4072
+light cherry pie filling	4316
+little smokies sausage	1898
+casing	5007
+bean	1280
+red salmon	1830
+cracker	808
+white syrup	3771
+ras el hanout spice mix	2438
+cocktail peanut	3471
+bread machine flour	4145
+mexican blend cheese	580
+chocolate	588
+barley	794
+skor toffee piece	4324
+polish sausage	1404
+grapefruit juice	956
+light raisin	3466
+italian plum tomato	1293
+cavatappi pasta	1624
+raspberry juice	4106
+cocoa	158
+vegetable stock	235
+lobster tail	3055
+ground pork	359
+wonton wrapper	708
+dried tarragon leaf	1952
+white onion	224
+chianti wine	3143
+pink peppercorn	2953
+sweet butter	1063
+fat-free cooking spray	3623
+apricot nectar	1088
+dry enchilada mix	3650
+sweet smoked paprika	3620
+flat-leaf italian parsley	1303
+cream cheese frosting	1745
+light coconut cream	4219
+aloe vera gel	3499
+wood chip	3243
+brick cream cheese	3836
+healthy request cream of chicken soup	3400
+strong white bread flour	3248
+plum sauce	1648
+herbes de provence	902
+butterscotch sundae sauce	3560
+garbanzo flour	4063
+canning salt	4770
+sausage link	2454
+low-fat swiss cheese	1921
+cornstarch	47
+roasted bell pepper	4719
+poppy seed dressing	4677
+zinfandel	3811
+mild cheddar cheese	755
+roasted almond	2249
+sweet vermouth	2433
+coffee-flavored liqueur	2232
+bacon bit	564
+slab bacon	2148
+hash browns	1289
+low-sodium instant chicken bouillon granule	2982
+greek yogurt	871
+spice cake mix	1387
+frozen corn on the cob	4415
+seasoning salt and pepper	3963
+peppermint candy	1900
+black tea	2645
+vegetable stock powder	2929
+chocolate wafer pie crust	3278
+mixed green	1304
+heavy cream	77
+lamb shoulder	1881
+chocolate-covered graham cracker cookie	4132
+mushroom	43
+drained water chestnut	4353
+sirloin tip roast	2106
+blueberry jam	4026
+lightly sweetened whipped cream	4389
+kielbasa	692
+brown sugar twin	3579
+coconut cream	639
+boiling salt water	4386
+dried seasoned breadcrumb	970
+blanched almond	4619
+flakey biscuit	3347
+yellow food coloring	944
+nutella	1158
+cross-rib roast	4595
+light soymilk	4381
+ice	212
+pace picante sauce	2132
+blueberry preserve	4895
+deli turkey	1310
+fat-free margarine	2512
+powdered milk	553
+ginger snaps	1734
+ale	2465
+yogurt cheese	4914
+ground black pepper	30
+seasoning salt and black pepper	5056
+country bread	2244
+crab	1649
+madras curry powder	1901
+tomato soup	427
+romaine lettuce heart	1553
+caper	220
+chinese noodle	2127
+jerusalem artichoke	4118
+yam	805
+steak fillet	2617
+cod fish	1534
+vanilla frozen yogurt	1860
+kumara	2140
+low-fat sweetened condensed milk	3792
+white sugar	105
+soy yogurt	2474
+pot barley	3752
+steel cut oat	1532
+black caviar	4428
+vegan cream cheese	3258
+beef stock powder	3665
+short-grain brown rice	2897
+tomato in puree	1568
+swiss cheese	162
+family-size tea bag	2245
+mango chutney	936
+miniature pretzel	3520
+gelatin powder	2517
+bay leaf	63
+red sweet pepper	3095
+white balsamic vinegar	1362
+cognac	877
+sweet vidalia onion	4065
+rye whiskey	3673
+tahini paste	2323
+porcini mushroom	3191
+frozen pea and carrot	1352
+hard alcoholic cider	3835
+gummy worm	3351
+cornichon	2995
+baby romaine lettuce	4207
+red plum	4420
+miniature party rye round	2770
+cardamom pod	683
+lean ground turkey	938
+fritos corn chip	1598
+corn flake cereal	1807
+rose water	924
+melon	2310
+mesquite wood chip	4752
+light vanilla soymilk	3115
+plain popped popcorn	4334
+cooking spray	177
+ahi tuna steak	3484
+garlic flake	2894
+graham cracker crumb crust	3750
+cotton cloth	4982
+certo liquid pectin	4735
+italian dressing	464
+turkey hot dog	4264
+sauerkraut	424
+fennel bulb	703
+lovage	4613
+frozen white corn	2498
+bulk breakfast sausage	3317
+natural yoghurt	1341
+whole-grain dijon mustard	2691
+sugar-free instant pudding mix	3937
+mochiko sweet rice flour	2836
+gelatin	370
+pumpernickel cocktail bread	4458
+butterscotch chip	493
+bisquick	3958
+sweet pea	2113
+jalapeno chili juice	2195
+smoked pork chop	4283
+orange essential oil	4447
+low-fat biscuit mix	4513
+swiss cheese slice	4946
+grenadine	569
+brown paper bag	4777
+cardamom seed	1518
+whole-wheat hamburger bun	1923
+proofed sourdough starter	2559
+popped popcorn	1026
+tempeh	1742
+shell macaroni pasta	2337
+edible silver foil	5049
+sweet sausage	4525
+alfredo sauce	761
+stuffed green olive	1419
+shelled pea	4325
+drambuie	3035
+beef sirloin steak	1127
+ground chili powder	2987
+pork belly	3711
+pickled jalapeno pepper	3121
+center-cut pork loin	2591
+rice vinegar	236
+cooking apple	900
+cherry pie filling	514
+frozen dough roll	4285
+long red chili	2955
+cool whip free	1570
+candied cherry	1680
+cherry flavored liqueur	3648
+frosting	1603
+bottom round steak	4304
+pepperoni slice	1407
+oyster cracker	1973
+hubbard squash	4258
+green cabbage	470
+spaghetti sauce	286
+german mustard	3787
+almond flavoring	1485
+sunflower oil	627
+glutinous rice	3967
+hot milk	1291
+diet cola	3057
+parmigiano	2342
+candied red cherry	2228
+cheese spread	2357
+red table wine	4408
+dumpling wrapper	4093
+biscuit mix	979
+herb-seasoned salt	4881
+low-fat cottage cheese	616
+vanilla	21
+bing cherry	2417
+pheasant	4049
+carnation evaporated milk	1882
+sumaq	2964
+french baguette	910
+thin green bean	3924
+raspberry yogurt	3299
+fat-free miracle whip	3295
+sumac	2372
+rose's lime juice	3166
+gala apple	1755
+tuna in vegetable oil	2604
+salted sunflower seed	3607
+frozen french bread dough	3498
+vanilla frosting	1729
+english pea	3380
+egg yolk	100
+maple flavoring	1416
+lemon twist	2491
+red maraschino cherry	3366
+earl grey tea bag	4686
+jalapeno chili pepper	1885
+canadian rye whisky	4116
+frozen artichoke	4055
+mandarin orange in light syrup	3467
+smoked sausage	612
+farmer cheese	2582
+frozen cauliflower	1677
+chili paste	1006
+low-fat evaporated milk	3326
+roasting chicken	586
+cheesecake flavor instant pudding and pie filling mix	4123
+mild curry paste	3046
+light olive oil	826
+quick-cooking rolled oat	897
+four cheese blend	4339
+chocolate leaf	5013
+cocoa powder	229
+monterey jack pepper cheese	482
+green cardamom	1709
+olive tapenade	4870
+jimmy dean sausage	2575
+chickpea flour	2153
+deli chicken	4518
+apple jelly	1413
+tuna steak	1180
+sorghum	4078
+icing sugar	253
+double cream	765
+beef top round steak	3949
+buttered noodle	4581
+aluminum foil	976
+ground cinnamon	51
+king arthur unbleached all-purpose flour	3584
+ck products peppermint oil	4975
+yellow bean	3214
+white chicken meat packed in water	4470
+baby rocket	2839
+seafood stock	3810
+frozen white shoepeg corn	3461
+turkey gravy	2286
+granulated yeast	3297
+chocolate ice cream	1139
+dried hot pepper flake	4414
+asian-style dressing	4935
+southern style hash browns	4403
+cookie	2917
+dry wine	3557
+saskatoon berry	4916
+baby clam	1939
+potato bread	4897
+red food coloring paste	5063
+beef t-bone steak	2335
+brown basmati rice	2477
+mexican crema	3825
+blackstrap molasses	1700
+sparkling wine	2083
+boboli pizza crust	2341
+protein powder	2061
+asian fish sauce	2067
+orange bell pepper	893
+italian seasoning mix	2391
+pomegranate	2367
+sausage meat	2334
+cool whip lite	1317
+citric acid	2069
+risotto rice	2331
+strawberry jelly	2706
+dried leaf thyme	2398
+reduced-sodium soy sauce	558
+chestnut	2745
+key lime	2640
+dry pectin	1689
+bread roll	4056
+cornbread stuffing mix	1995
+light coconut milk	925
+red snapper fish	2492
+diet 7-up	4155
+fruit cocktail	1253
+frozen spinach leaf	2864
+tostadas	4632
+reduced-fat mozzarella cheese	1829
+long-grain white rice	540
+mung bean sprout	2037
+course black pepper	4022
+ground nutmeg	119
+weetabix	4486
+padano cheese	4461
+active dry yeast	218
+cherry extract	4501
+szechuan peppercorn	2192
+unseasoned rice vinegar	2449
+almond essence	2254
+chicken bone	4061
+powdered saffron	2457
+chinese mustard	4700
+frozen butternut squash	3477
+hot pepper	921
+soft shortening	2702
+banana	69
+honey mustard dressing	2408
+adolph's meat tenderizer	4984
+semi-sweet chocolate bit	3368
+ground chipotle chili	2613
+dried pasilla pepper	3799
+lamb cutlet	3308
+string	4549
+dried sour cherry	3162
+baked potato	360
+unsweetened instant tea	3575
+bouillon	1957
+strawberry daiquiri mix	4869
+smarties candy	4557
+semi-sweet mini chocolate chip	1363
+french vanilla ice cream	2537
+merlot	1783
+all-purpose white flour	1464
+steak seasoning	1684
+gluten-free baking powder	2685
+paper cup	3238
+natural almond	3172
+peel of lime	3524
+old-fashioned oatmeal	1351
+vegemite	2289
+turkey bacon	1212
+wasabi powder	1380
+shallot	101
+mashed potato	1243
+horseradish cream	2837
+brown and serve sausage	3861
+tomato and basil pasta sauce	2462
+hot chili sauce	1409
+smoked gouda cheese	1263
+dried chive	993
+passion fruit pulp	2944
+gingersnap cookie	1864
+granny smith apple	282
+cream cheese with garlic and herb	2475
+pasta sauce with mushroom	4081
+kosher salt and pepper	799
+cream of mushroom soup	148
+thin noodle	4468
+lime gelatin	1117
+mint jelly	3563
+smoked provolone cheese	4229
+supersugar	4753
+low-sodium beef bouillon cube	4263
+chevre cheese	2319
+chocolate cookie	3802
+arm roast	4347
+strawberry cream cheese	3850
+broiler chicken	3086
+sun-dried tomato packed in oil	545
+beef cube	2739
+cayenne chili flake	4069
+green food coloring	699
+coconut milk	234
+chicken consomme	4561
+caramel ice cream topping	899
+chinese chili sauce	3664
+yellow cake mix	313
+roasted hazelnut	4168
+soy cheddar cheese	5029
+summer sausage	4884
+salt-free tomato	4573
+vanilla whey protein powder	3614
+hot green chili	1851
+strawberry sauce	4805
+vegan butter	3073
+chocolate graham cracker	3010
+bench flour	4993
+spring green	3001
+dry oregano leaf	3048
+french vanilla cake mix	2840
+fat-free american cheese	4330
+sweetened coconut	1149
+mesclun	2612
+green decorating icing	5035
+tasty cheese	980
+tamarind juice	2371
+boil-in-the-bag rice	4406
+dry sparkling wine	4957
+bottom round beef roast	3506
+lemon-lime soda pop	4906
+coconut oil	1192
+pastry for double-crust pie	2657
+green glazed cherry	4125
+milk chocolate chip	500
+pork fat	3643
+bread flour	255
+frozen carrot	1980
+linguica sausage	3611
+cornish hen	1335
+ground red chili	2096
+fat-free milk	331
+italian parsley	380
+lettuce cup	5032
+white baking bar	4519
+american cheese	423
+ground dried chipotle chili	4760
+pina colada nonalcoholic drink mix	2781
+green pepper strip	4107
+scalded milk	1691
+plum	1098
+green sugar crystals	4617
+spanish smoked paprika	2253
+fruit pectin	2697
+colby and monterey jack cheese	632
+fontina	2368
+mashed banana	1865
+mozzarella ball	2524
+spicy mustard	1890
+jiffy corn muffin mix	1389
+ground turkey	281
+black kalamata olive	4459
+vinaigrette	3078
+sweetened lemonade drink mix	4344
+silken tofu	998
+boiled water	4214
+sour apple liqueur	4187
+fragrance oil	3139
+pure vanilla extract	244
+condensed beef consomme	3569
+buttered egg noodle	4580
+beef consomme	963
+dry vegetable soup mix	3000
+similar pasta	4594
+cracker crumb	860
+low-fat butter	3112
+semi-sweet chocolate bar	4964
+celery	35
+almond bark	2508
+aged balsamic vinegar	2525
+grey poupon mustard	3552
+tomato with basil	3028
+rib eye steak	1176
+mrsdash seasoning mix	1237
+self-raising flour	587
+kosher dill pickle	2558
+grind coffee	3870
+tang orange crystal	3350
+ginger syrup	4369
+dried peppermint	3813
+frozen pea pod	2803
+crusty roll	2565
+red wine vinaigrette	4908
+corn husk	4734
+colored crystal sugar	2441
+instant chicken bouillon	1942
+candy coating	5003
+fruit juice	2221
+nutritional yeast flake	1710
+sweet cream	3869
+white vanilla baking chip	3839
+fructose	3855
+frozen limeade concentrate	1094
+dried dill	456
+fruit preserve	2548
+portuguese bread	4857
+frozen cod fish fillet	4357
+hpnotiq liqueur	3075
+flounder fish fillet	1465
+sweetened coconut flake	531
+runny honey	2910
+rotini pasta	697
+hellmann's mayonnaise	1000
+tomato with basil oregano and garlic	1601
+day-old bread	1972
+italian salad dressing	676
+grill seasoning	2176
+raspberry jam	869
+serrano chili	689
+frozen peach	1156
+baking mix	297
+gluten	1671
+drinking chocolate	4472
+miniature m&m's chocolate candy	3761
+green creme de menthe	2162
+frozen snow pea	2778
+dried basil	104
+celtic salt	5008
+chicken rice-a-roni	2629
+pecan piece	861
+instant coffee granule	636
+bacon grease	1052
+crabmeat	3760
+jamaican jerk seasoning	4729
+ginger juice	2264
+sugar-free appleauce	4889
+tia maria	2211
+polska kielbasa	3382
+green grape	1302
+hot dog	668
+meaty chicken piece	3315
+meat stock	2942
+triscuit cracker	3492
+stuffing mix	1239
+doritos	1966
+german chocolate cake mix	1498
+splenda artificial sweetener	3071
+dried pineapple	2469
+king prawn	3373
+dried herbes de provence	2951
+strawberry gelatin	656
+hot pepper jelly	2937
+frozen southern style hash brown potato	4920
+frozen tofu	4144
+soft cream cheese	2189
+turnip green	3448
+no calorie artificial sweetener	4606
+fat-free whipped topping	1594
+chinese sweet chili sauce	4875
+matcha green tea powder	4378
+reduced-fat parmesan cheese	2412
+beeswax	3401
+bisto	4994
+bone-in ham	4042
+seasoned breadcrumb	573
+clam juice	811
+black olive	159
+chocolate-covered coffee bean	2649
+powdered thyme	4739
+meatless sauce	3439
+frozen raspberry in light syrup	3019
+beef steak	1037
+crab meat	382
+genoa salami	1718
+turkey wing	3320
+channa dal	2811
+corn muffin mix	1265
+frozen cheese tortellini	1902
+lemon zest	2027
+candy corn	1929
+banana cream instant pudding	3654
+rib-eye steak	3391
+rice bubbles	2994
+pickled jalapeno chili	863
+dried fig	1129
+baby arugula leaf	4684
+chocolate soymilk	3321
+espresso coffee	2265
+leek	225
+linguine pasta	426
+light karo syrup	2010
+non-dairy milk substitute	3978
+unbleached flour	524
+graham cracker crumb	320
+condensed chicken broth	1874
+olive	265
+raspberry vinegar	1005
+roll	1635
+frozen blackberry	1573
+herbed crouton	3031
+frisee	3491
+dill seed	1132
+dripping	2380
+orange pekoe tea bag	3429
+ice cream	842
+dried coriander	913
+italian roll	3041
+buttermilk biscuit mix	3134
+paper towels	4655
+chicken part	1418
+snap pea	2533
+malt vinegar	1277
+peanut oil	222
+beef-flavor ramen noodle	2528
+dried wildmushroom	4186
+unsalted pistachio	3791
+noodle	572
+ground dried chili	3814
+spicy mayonnaise	5011
+powdered chocolate milk mix	3157
+almond meal	1554
+oreo cookie pie crust	3024
+heart of palm	1797
+dried banana piece	4799
+chive blossom	4680
+sweet paprika	518
+juice and peel of orange	1987
+coconut extract	866
+black forest ham	2295
+miniature pretzel twists	2986
+thin bacon	4563
+hazelnut extract	4505
+celery root	2018
+mango salsa	4856
+sourdough starter	1172
+red thai chili	2667
+table cream	3277
+white almond bark	3145
+vanilla icing	5017
+beef brisket	880
+frozen black-eyed pea	3147
+butter-flavored cracker crumb	3754
+bean dip	3899
+part-skim mozzarella cheese	538
+frozen okra	1575
+egg roll wrap	1224
+anchovy packed in oil	2476
+frozen apple juice concentrate	1540
+peel of 1 lemon	4708
+seitan	2615
+toblerone chocolate bar	3192
+boiled potato	1757
+acorn squash	839
+strained tomato	4268
+anchovy paste	1113
+cherry brandy	2109
+celery heart	2599
+thai chili	2022
+drained tomato	3219
+pork cutlet	2374
+english spinach	4161
+strawberry puree	3969
+light soy sauce	385
+vital wheat gluten	1313
+macaroni pasta	192
+garlic chive	3231
+old el paso taco seasoning mix	4035
+salt cod fish	3159
+self-rising flour	501
+japanese-style breadcrumb	3513
+fat-free strawberry yogurt	4396
+okra pod	3970
+cold coffee	2235
+tangerine zest	2250
+paper baking cup	2934
+kraft old english cheese spread	3030
+bread dough	3482
+chicken bouillon	705
+molasses	195
+molly mcbutter	4465
+vegetable bouillon	4098
+nacho cheese flavored tortilla chip	2957
+peppermint candy cane	4955
+basil pesto	1023
+oregano	73
+garlic salt	138
+beef cube steak	2610
+wild blueberry	3573
+low-sodium kidney bean	4842
+ground thyme	981
+fat	1633
+hot fudge	2035
+tomato paste	87
+pork chop	233
+breakfast sausage link	3905
+stewing chicken	2983
+strawberry ice cream topping	4009
+crescent roll dough	1471
+multi-grain bread	2043
+yellow split pea	1765
+unsalted tomato	3447
+white chocolate baking square	1778
+oreo cookie	684
+tabasco jalapeno sauce	2505
+spicy barbecue sauce	4512
+house seasoning	3615
+prawn	896
+champagne vinegar	1751
+vanilla vodka	1099
+borax	2152
+plain greek yogurt	2653
+goat meat	4568
+peach schnapps	986
+creme de banane	1947
+chocolate fudge frosting	3604
+evaporated skim milk	927
+red seedless grape	939
+rice krispies	594
+cream sherry	2090
+reduced-fat mayonnaise	1154
+phyllo pastry sheet	2187
+lamb racks	4199
+ground italian sausage	3232
+peach in heavy syrup	4335
+whole-wheat rotini pasta	3726
+preserved gingerroot	3027
+white breadcrumb	1272
+pancetta	782
+instant espresso coffee powder	2455
+mexican beer	4277
+instant chocolate drink mix	3768
+clementine	2648
+dog food	4973
+mint extract	1861
+apple pie filling	952
+lemon verbena	3929
+frozen berry	1769
+chardonnay wine	1819
+vietnamese fish sauce	3938
+red bean	1340
+low-fat cream of chicken soup	2546
+virgin coconut oil	4234
+juniper berry	1711
+juice and peel of lime	1552
+honey	36
+corned beef brisket	1703
+celeriac	2207
+nori	1694
+beef tenderloin	918
+semi-sweet chocolate morsel	872
+leftover turkey	4522
+jalapeno chili jelly	1997
+fat-free plain yogurt	373
+day-old white bread	2362
+minute rice	1008
+dried garbanzo bean	1827
+crystallized ginger	671
+white baking chocolate	2958
+hing	3268
+duncan hines lemon supreme cake mix	4112
+coffee-mate	4418
+bisquick heart smart mix	3264
+smoked chicken breast	4002
+dry sherry	240
+mixed italian herb	1503
+crusty bread	1331
+salt-free lemon pepper	4001
+red food coloring	512
+dried ginger	1938
+carbonated water	2833
+capicum	2851
+pearl sugar	4782
+stevia	2252
+beef shank	4162
+gourmet salad green	3846
+dry english-style mustard	3634
+frozen shelled edamame	2068
+fat-free greek yogurt	2220
+egg bread	2858
+vanilla baking chip	3470
+rock salt	2122
+cane syrup	3773
+chunk chicken	2974
+sunflower seed	387
+squash	1436
+flounder	4871
+baharat mixed spice	4605
+peppermint extract	779
+manicotti	1232
+arrowroot	1223
+water	7
+old fashioned oat	447
+pork leg	4502
+kalamata olive	311
+absolut mandarin vodka	3234
+chicken stuffing mix	1202
+venison	1894
+green sugar	5033
+yellow tomato	2578
+dried red pepper flake	770
+yucca root	4053
+biscotti	3658
+nacho cheese	4970
+glace cherry	1596
+all-purpose gluten-free flour	4446
+chocolate cake mix	879
+chunk light tuna	2954
+vegan parmesan cheese	3069
+yellow mustard seed	1876
+flax seed meal	954
+milky way bar	2979
+pink marshmallow	4923
+frozen onion	1771
+buttered breadcrumb	2147
+chinese hot mustard	4650
+wonton skins	4800
+coffee creamer	2404
+tuna packed in oil	3009
+texas pete hot sauce	4031
+pineapple cake mix	4306
+hot mustard	2714
+broccolini	2898
+mutton	3137
+irish whiskey	1393
+shelled pistachio nut	2159
+dark chili powder	3592
+smoked almond	3934
+thin egg noodle	3357
+hot pepper sauce	245
+mozzarella cheese	66
+green tea leaf	3336
+sloppy joe sandwich sauce	3170
+dried yeast	1866
+tri-tip steak	4308
+chive	124
+blackberry	641
+mace	965
+apple	89
+brownie mix	1074
+remoulade sauce	4983
+carrot sticks	4779
+beef dripping	4247
+half-and-half milk	3505
+white crab meat	3290
+peach gelatin	4337
+white vinegar	157
+white cranberry juice	3116
+aged cheddar cheese	2418
+rotisserie chicken	2631
+chop suey vegetable	4392
+cheese soup	3684
+light-brown sugar	1823
+pink food coloring	5058
+roux	4641
+instant rice	775
+quick-rising yeast	2684
+mung dal	4135
+country gravy mix	3161
+green bean	167
+romaine leaf	2494
+distilled water	2654
+sweet hungarian paprika	1298
+cream cheese with chive	2923
+wax bean	1786
+lamb fillet	2981
+wine vinegar	658
+caramel	750
+major grey chutney	3381
+filtered water	1937
+liquid dishwashing soap	4265
+dried herb	1051
+lasagna sheet	2935
+sugar-free syrup	3631
+walla walla onion	3179
+rice flour	657
+instant coffee crystal	1697
+cereal	1384
+ranch dressing	522
+olive oil	8
+galliano	2133
+sweet pickle relish	611
+green apple	1015
+instant coffee	570
+epsom salt	2588
+strained lemon juice	3239
+almond	76
+salad green	968
+fried egg	3449
+light oil	2459
+papaya nectar	4025
+pea pod	2161
+lemon glaze	5025
+warm whole milk	4523
+wooden popsicle stick	2257
+ciabatta	1555
+dish detergent	4754
+cointreau liqueur	923
+dry milk	971
+cheese whiz	4537
+horseradish sauce	1529
+wheat flour	926
+dried bay leaf	1429
+shelled peanut	4554
+frozen dark cherry	3486
+hershey bar	2423
+vanilla pudding	3183
+condensed cream of mushroom soup	547
+black sesame seed	1672
+turkey kielbasa	2490
+strong tea	4266
+dry hidden valley ranch dressing mix	4372
+dried split pea	1517
+yellow sugar	5073
+taco blend cheese	3770
+black olive tapenade	3260
+quinoa	589
+pumpkin spice	2943
+radicchio	1638
+black cardamom pod	2134
+dark raisin	1173
+ground turmeric	417
+minute tapioca	2129
+hot pepper flake	988
+taco seasoning	309
+ruby red grapefruit	4893
+baking paper	4953
+oxtail	2868
+flat beer	3763
+low-fat cream cheese	801
+crisco shortening	1309
+french bean	2460
+israeli couscous	2534
+shrimp shell	4803
+mild goat cheese	3440
+corn chip	908
+whole milk	194
+cherry jam	3822
+herb seasoning mix	3747
+soft bread cube	3450
+fryer chicken	1642
+ravioli	3955
+crown royal whiskey	4311
+unsalted stewed tomato	3848
+browning sauce	2430
+cream of chicken and mushroom soup	3992
+rotel	1057
+cucumber	121
+low-fat condensed cream of chicken soup	4138
+bok choy	822
+red enchilada sauce	1501
+artificial sweetener	820
+unsweetened dutch cocoa	3289
+buffalo	3952
+orange sweet bell pepper	4030
+corn syrup	393
+oyster sauce	457
+instant flour	4361
+cheesecloth	2856
+lawry's seasoning	5023
+reduced-fat mexican cheese blend	2340
+grape jelly	1368
+lentil	485
+low-fat coconut milk	3545
+chicken cutlet	1330
+toasted walnut	1065
+chicken wing	486
+vegetarian chocolate pudding mix	4767
+capellini pasta	542
+nut	140
+strip steak	4032
+yellow sweet pepper	1537
+cherry gelatin	2385
+peach nectar	1746
+extra-sharp cheddar cheese	4759
+corned beef	890
+dried chamomile	3412
+glue	4651
+frozen pearl onion	2072
+parsley	20
+puy lentil	3930
+jasmine rice	985
+beef round steak	2156
+habanero sauce	3663
+asafetida powder	1525
+lebanese cucumber	1820
+dashi	2581
+candied green cherry	5001
+fingerling potato	1856
+glitter	4652
+yellow cherry tomato	3672
+frozen cooked meatball	3102
+orange	178
+hot chicken broth	2415
+stone-ground cornmeal	3824
+pineapple slice	1216
+pouring cream	2507
+fava bean	2166
+dill leaf	3224
+black decorating gel	4577
+farro	3904
+sharp white cheddar cheese	1625
+sugar substitute	593
+marshmallow creme	847
+juice of blood orange	2179
+orange cake mix	3025
+mexican oregano	1535
+sorrel	3476
+stewing beef	771
+beef bouillon cube	441
+dry white wine	123
+spanish rice mix	4471
+quick-cooking brown rice	2919
+nacho cheese soup	4160
+low-fat cream of celery soup	3533
+fruit syrup	5012
+instant minced garlic	1421
+sage sausage	3900
+absolut citron vodka	2713
+mandarin essential oil	4971
+fat-free sour cream	378
+oriental-flavor instant ramen noodle	2237
+jelly bean	3242
+white wine vinegar	227
+prosciutto di parma	4024
+bacardi rum	3586
+great northern bean	583
+lemonade concentrate	2009
+tomatillo salsa	2843
+roasted green chili	3749
+corn chex	1695
+white bread	332
+condensed cream of celery soup	1292
+smoked pork hock	4503
+soft white bread	3597
+soy ice cream	4360
+ground pecan	1831
+green onion	28
+split red lentil	2941
+texas toast thick bread	2405
+nacho cheese flavor doritos	2448
+candy covered plain chocolate	4041
+grapeeed oil	1167
+beef rump roast	3105
+black bean garlic sauce	3731
+chili	352
+thai rice noodle	4748
+mushroom slice	2464
+dried spearmint	4527
+vanilla cake mix	3406
+hungarian paprika	1160
+agave syrup	2317
+sugar-free jell-o	2555
+pie filling	1629
+light butter	1255
+vermouth	1582
+buttermilk biscuit	2932
+mexican chili powder	2570
+sugar crystals	4660
+peach preserve	1533
+couscous	438
+turkey pepperoni	2021
+milk	10
+beef stock cube	2681
+powdered cocoa mix	2834
+frozen french style green bean	3474
+light corn syrup	263
+red cinnamon candy	1571
+unbleached white flour	973
+vitamin e	3104
+corn flake	451
+green shallot	2682
+white corn tortilla	3103
+ground venison	1975
+buttercup squash	3501
+cinnamon	24
+frozen miniature phyllo tart shell	4731
+ouzo	1895
+sugar cube	2443
+kumquat	2911
+pinto bean	363
+white button mushroom	1024
+courgette	1358
+black mustard seed	1249
+marzipan	2765
+plain flour	241
+frozen pea carrot	3891
+fish fillet	685
+unsweetened pineapple tidbit	4028
+pistachio	806
+seedless raspberry preserve	2193
+lecithin granule	4205
+salsa con queso	3852
+italian vinaigrette	5051
+tart cooking apple	2710
+light margarine	1388
+realemon juice	3849
+mushroom gravy	3833
+jumbo pasta shell	1246
+pumpkin puree	400
+dungeness crabmeat	4476
+meyer lemon	3186
+milk chocolate	1001
+frozen unsalted butter	4429
+black currant	3669
+green sweet pepper	1497
+duck fat	4528
+carrot cake mix	4327
+edam cheese	2403
+chervil	1662
+non-dairy powdered coffee creamer	2007
+beef gravy granules	4992
+gluten-free flour	1323
+rice cracker	4714
+golden raisin	356
+dry active yeast	1530
+chinese barbecue pork	4269
+ground nut	2972
+edamame	3261
+mint	205
+paste food coloring	4626
+roasted peanut	488
+dried mexican oregano	2119
+sweet milk	3201
+rolled oat	219
+hickory smoke salt	3655
+pork tenderloin	303
+havarti cheese	1402
+tequila	452
+graham cracker crust	745
+pear vodka	4100
+shortening	114
+semi-sweet chocolate piece	1472
+ground mixed peppercorn	4951
+beef base	1656
+stevia powder	2358
+asiago cheese	536
+oat bran	700
+frozen whipped topping	598
+red beet	2821
+light spreadable cheese with garlic and herb	4913
+reduced-sodium vegetable broth	3549
+dill pickle relish	1590
+quince	4253
+mixed mushroom	1044
+macaroni and cheese mix	1123
+liquid fruit pectin	2621
+red currant jelly	1466
+coarse white sugar	5020
+sparkling white wine	3425
+egg	5
+light cream cheese spread	3181
+salt-free chicken broth	3878
+smoked cheese	4171
+giardiniera	3515
+splenda sugar substitute	267
+unsweetened whipped cream	5072
+butter flavor crisco	1842
+frozen phyllo dough	2786
+seasoned pepper	1580
+mixed cut-up vegetable	4985
+tiny new potato	4717
+charcoal	4582
+gray salt	4368
+chai tea teabag	3221
+red sweet bell pepper	1569
+red pepper paste	3895
+thai red chili	2120
+sweet gherkin	1741
+washing soda	3710
+spicy vegetable juice	4488
+mandarin orange section	1726
+white salt	1428
+onion juice	2574
+pickle	1134
+lemon flavor instant pudding and pie filling	3021
+unsweetened coconut	1069
+white corn syrup	1221
+catfish nugget	3871
+baby potato	1524
+processed cheese	1586
+unsweetened pineapple juice	1076
+frozen pink lemonade concentrate	1775
+peppermint stick candy	3740
+center-cut bacon	2086
+marshmallow cream	807
+sweet yellow onion	4167
+instant pistachio pudding mix	1390
+white truffle oil	3006
+sugar snap pea	886
+full-bodied red wine	4326
+yellow mustard	364
+maple syrup	186
+frozen dinner roll	2816
+fried onion	2589
+lemon-lime flavored soda	4197
+yoshida gourmet sauce	4007
+mushroom soy sauce	4354
+dried pear	3443
+worcestershire sauce	44
+chicken soup base	2241
+vegetarian baked bean	2399
+apricot preserve	597
+lobster	1836
+liquid gravy browner	4113
+poblano chili	951
+vegetable soup	3538
+instant pudding mix	1774
+ground mace	1111
+vinegar	103
+sparerib	1826
+ginger paste	1189
+sweet barbecue sauce	4720
+miso	1577
+dry dill weed	2780
+turkey	317
+dried thyme leaf	566
+peach brandy	3245
+dried red bean	2936
+fish sauce	289
+pizza sauce	455
+warm milk	744
+yellow zucchini	2758
+ready-to-bake refrigerated buttermilk flaky biscuit	2973
+root vegetable	4817
+tarragon leaf	1378
+fish	1731
+mild enchilada sauce	2842
+carbonated lemon-lime beverage	834
+shortbread cookie	2828
+refrigerated chocolate chip cookie dough	2136
+pickling onion	3641
+short pasta	3494
+carrot juice	3100
+seedless orange	2180
+coconut flavoring	2388
+karo syrup	1732
+herbed goat cheese	4196
+red decorating gel	4646
+orange flavored yogurt	4152
+catfish fillet	1203
+spicy bulk sausage	3281
+tortilla chip	354
+red bliss potato	3155
+sambal oelek	1217
+fat-free vegetable broth	4291
+vanilla bean paste	3522
+honey-roasted peanut	2055
+black bean sauce	2255
+dried oregano leaf	610
+mint chocolate chip	2701
+frozen cheese ravioli	1722
+cauliflower head	4376
+saltine crumb	2308
+mandarin orange	379
+round steak	615
+pear halve in natural juice	2359
+sweet creamy butter	4668
+gin	961
+cold brewed coffee	3610
+filet of beef	2033
+reduced-calorie mayonnaise	2054
+juice orange	4690
+salmon	535
+maui onion	3389
+crispix cereal	1868
+pastry crust	4181
+thyme	78
+carrot	22
+chuck	3040
+reduced-fat sharp cheddar cheese	1414
+cannelloni tube	4142
+frito scoops	4701
+hot paprika	1489
+deli roast beef	1617
+oil	34
+red decorating icing	5062
+coleslaw	1924
+hidden valley ranch dressing	2763
+veggie burger	3428
+orange roughy fish fillet	2186
+snickers miniature candy bar	3984
+sweet apple	2354
+port wine	1021
+russet baking potato	4940
+vegetable juice cocktail	3394
+frozen mixed berry	1486
+pumpernickel round	5046
+chocolate chip cookie	3293
+tamarind paste	1338
+onion salt	539
+pickled onion	5057
+strawberry ice cream	2291
+lychee	2720
+fat-free buttermilk	1411
+clean jars	4654
+spelt flour	1661
+saffron thread	711
+orange flavoring	4883
+baby lima bean	4019
+leaf oregano	3863
+catfish	4343
+dried hot pepper	2863
+longhorn cheese	2807
+bacon dripping	1179
+instant couscous	2775
+mixed crudites	4775
+vegetarian sausage	4450
+lemon and herb seasoning	3699
+reduced-fat monterey jack cheese	1974
+ground fennel	1632
+ice cream topping	4543
+vanilla sugar	1101
+black tea bag	2470
+trout fish fillet	2783
+tasso	4323
+instant potato flake	1229
+dried ancho chili powder	1066
+melon ball	4702
+coconut water	3616
+hostess twinkies	2826
+thick white bread	3805
+garlic and herb seasoning	2419
+whole-wheat baguette	4878
+garlic paste	1107
+espresso	1086
+pasta sauce	618
+creole mustard	1572
+summer squash	783
+pattypan squash	3716
+stew meat	1071
+powdered ginger	1093
+swiss chard leaf	3902
+kaiser roll	1125
+turkey gravy mix	4469
+marinara sauce	603
+gravy	2185
+turkey leg	3421
+heinz ketchup	2422
+veal	1989
+salt	1
+adobo seasoning	1343
+low-sodium soy sauce	341
+baking sheet	4576
+sake	941
+jell-o instant vanilla pudding mix	2425
+mizithra cheese	3311
+mixed cracker	1931
+chicken gravy	2225
+chocolate flavoring	4555
+angostura bitter	1801
+agave	3523
+sriracha chili sauce	3335
+red kidney bean	448
+dried bean	2768
+blue cornmeal	2939
+ground lean pork	1045
+lukewarm milk	1782
+hunt's tomato paste	3964
+grand marnier	725
+turkey thigh	3497
+bath soap	4043
+seasoning mix	3728
+brown sugar	12
+peach jam	3023
+ham hock	1453
+berbere	3862
+roast	1799
+spanish peanut	3045
+frozen lemonade concentrate	895
+cream of asparagus soup	3874
+coleman's dry mustard	3651
+chambord raspberry liquor	1181
+fat-free cream of mushroom soup	3042
+amber beer	4457
+clotted cream	4747
+caramel sundae syrup	5005
+sweet tea flavored vodka	4887
+dark soy sauce	748
+chicken breast	25
+low-sodium beef broth	999
+frozen unsweetened mixed berry	3923
+chili bean sauce	4348
+fat-free evaporated milk	940
+japanese eggplant	1764
+lamb rib chop	3667
+lamb loin chop	1925
+lollipop stick	4085
+mountain dew soda	2312
+lime peel	304
+low-sodium teriyaki sauce	3349
+curd	3280
+bibb lettuce	1639
+tostitos scoops	5038
+white miso	2641
+bread	210
+deep frying oil	4243
+candy molds	5004
+almond flour	1521
+golden syrup	731
+dried hibiscus flower	3936
+caster sugar	215
+apricot jam	759
+dutch-processed cocoa powder	1150
+frozen broccoli floret	1036
+focaccia bread	1852
+fat-free caramel topping	3948
+emeril's original essence	1720
+mixed spices	4987
+cocktail stick	4844
+dried porcinimushroom	1567
+skor candy bar	3032
+cinnamon baking chip	1964
+mixed spring green	4667
+baby artichoke	3806
+breakfast sausage	1446
+pomegranate syrup	3514
+crawfish	3588
+clam with juice	4491
+rolled oatmeal	4329
+clam broth	3240
+savory herb with garlic soup mix	4515
+rubbing alcohol	3384
+kosher salt and black pepper	3077
+ginger powder	977
+chuck steak	1832
+silver beet	3928
+fat-free cream cheese	642
+dried beef	1539
+grounded coffee	4954
+multicolored sweet pepper	4922
+strawberry glaze	2990
+instant malted milk powder	1763
+orange liqueur	905
+turkey drumstick	3766
+vanilla instant pudding mix	622
+guava juice	2742
+reduced-fat milk	2212
+frozen reduced-fat whipped topping	3722
+trout	2346
+celery salt	345
+a-1 steak sauce	1075
+fat-free chicken broth	649
+stale bread	1790
+frozen unsweetened raspberry	1917
+oat	344
+pineapple in syrup	2538
+boiled ham	2506
+fat-free free-sodium chicken broth	4480
+dark chocolate	513
+wheat bread	4238
+muesli	3184
+miniature m&m baking bit	2766
+dark cherry	2384
+panettone	4529
+frozen fruit	1871
+light cream cheese	628
+strawberry juice	4195
+pie apple	3628
+red chili	324
+masa harina flour	1283
+chex cereal	2913
+beef bouillon powder	2006
+frozen baby pea	1273
+blue food coloring	2554
+sofrito sauce	2282
+ground flax seed meal	4208
+chipotle hot sauce	3713
+baked bean	849
+shirataki noodle	4220
+ammonia	3212
+pine nut	264
+cabbage and carrot coleslaw mix	3653
+mixed peppercorn	4048
+chicken soup powder	3979
+dill relish	2099
+unsweetened pineapple chunk	2222
+lean stewing beef	1665
+low-fat cheddar cheese	613
+fat-free monterey jack cheese	4553
+toasted pumpkin seed	3996
+pineapple juice	207
+lean pork loin	2773
+baby food	4289
+pappadams	4630
+low-fat peanut butter	4079
+extra lean beef	4588
+dried lentil	1083
+instant fat-free dry milk powder	1908
+prosciutto ham	2966
+lawry's seasoned pepper	5022
+toasted pecan halve	3853
+arugula	791
+mustard powder	473
+unsweetened pineapple	1736
+buttermilk ranch dressing	4761
+orange strip	4765
+reese's piece	3282
+soy sauce	37
+ritz cracker crumb	2123
+indian curry paste	4918
+unsalted chicken stock	3049
+cinnamon graham cracker	3422
+pineapple with juice	1607
+seasoned salt and pepper	4587
+french haricots vert	2473
+bagel	1556
+apricot gelatin	4338
+heirloom tomato	2480
+egg based mayonnaise	2794
+half-and-half light cream	2846
+crostini	4792
+diet lemon-lime soda	3099
+frozen cut green bean	1442
+chili with bean	2619
+shaoxing wine	3011
+lemon sherbet	3804
+vegetable oil	23
+evaporated low-fat milk	2670
+serrano ham	3613
+frozen phyllo pastry sheet	4412
+lemon-pepper seasoning	1185
+riesling wine	2881
+chicken meat	1663
+liquid smoke flavoring	2145
+palm sugar	1474
+18% table cream	3113
+apple juice concentrate	1767
+baby yukon gold potato	3786
+rice-a-roni	3739
+linguine	2275
+sweet sherry	2749
+garden tomato	3974
+egg noodle	330
+juice	1645
+louisiana hot sauce	1276
+lean ground meat	3124
+rice paper	3065
+eagle brand sweetened condensed milk	4894
+jeera powder	4104
+frozen raspberry	568
+sugar-free maple syrup	2098
+brown bread	3352
+fast rising yeast	884
+tuna fillet	4356
+banana chip	4169
+greek salad dressing	3472
+caramel topping	1318
+polish kielbasa	4342
+dried fruits	4703
+beef broth	160
+ready-made pie crust	2302
+kikkoman soy sauce	2824
+frozen pineapple	4560
+toasted baguette	4631
+annatto seed	3679
+light butter spread	3342
+salted peanut	790
+dark brown sugar	193
+cashew butter	3056
+rosamarina pasta	4663
+mexicorn	1502
+green curry paste	1768
+cotija cheese	2790
+shelled pumpkin seed	4120
+root beer extract	4460
+sweetcorn	2353
+homogenized milk	3274
+wesson oil	2623
+italian plum	3977
+haddock fish fillet	2094
+cooking sherry	1322
+lemon pie filling	2689
+light mozzarella cheese	3566
+green maraschino cherry	4786
+baking soda	19
+medium-grain rice	2154
+tonic water	2333
+poundcake mix	3571
+ancho chili	1858
+chunk tuna	3451
+limoncello	1675
+nestles quik	4140
+coleslaw dressing	3228
+ginger	49
+gorgonzola	715
+graham cracker square	2294
+clover honey	2652
+sugar cane	4879
+cheese-filled egg tortellini	4400
+low-fat soymilk	4275
+dry oatmeal	3197
+beef stock	329
+pimentos	4781
+salt and pepper	14
+tart green apple	2202
+spinach fettuccine pasta	2486
+light ranch salad dressing	3339
+dried red kidney bean	2325
+carbonated beverage	4644
+beef flank steak	1733
+non-hydrogenated margarine	3178
+seasoned flour	1630
+chocolate-flavored liqueur	3743
+mushroom stem	4730
+watermelon ball	4478
+salted roasted cashew	4074
+half-and-half cream	350
+cream cheese	33
+chicken fillet	1812
+eggwash	3345
+lemon sorbet	3830
+safflower oil	1137
+unsweetened cocoa	491
+smoked ham	1070
+soy flour	1509
+cooking wine	2427
+sea salt and black pepper	3123
+chicken liver	1184
+grape jam	4498
+cake-and-pastry flour	3865
+chat masala	2797
+coriander root	3047
+ready rolled puff pastry	4331
+frozen pineapple concentrate	3580
+parchment paper	2126
+dark cocoa	2754
+coffee	575
+condensed french onion soup	2210
+red snapper fish fillet	1430
+fire oil	4851
+ground dry mustard	3589
+lavender	1958
+baby shrimp	1018
+frozen baby carrot	3625
+cookie cutter	4981
+sourdough bread	763
+blueberry juice	4516
+dry shallot	4866
+nam pla	2620
+cardamom	623
+turmeric	199
+unsweetened frozen blueberry	3504
+taco shell	1415
+tapioca flour	1395
+orange juice concentrate	865
+anchovy	1206
+frozen fish stick	4838
+sweet-hot mustard	4370
+dried kidney bean	2802
+beau monde seasoning	2447
+dried red chili	780
+seafood cocktail sauce	1473
+imitation vanilla	4016
+italian cheese	2848
+mild taco sauce	3986
+single cream	1548
+basic vinaigrette	4990
+cheese slice	2397
+lima bean	1325
+instant mashed potato	4240
+spaetzle noodle	4170
+star anise	846
+frozen breaded chicken patty	4434
+fudge topping	3015
+sweet mustard	4693
+roma tomato	284
+dried mixed fruit	1299
+duck breast	2363
+stuffing	1693
+sea scallop	798
+baby asparagus	4591
+pirouette cookie	5059
+burrito-size flour tortilla	1655
+consomme	1981
+whiskey	922
+stewed tomato	314
+turkey giblet	4245
+garlic and red chili paste	2980
+hidden valley ranch dip	3753
+ground black peppercorn	3903
+dry onion soup mix	520
+pork butt	1295
+orange extract	919
+ice water	637
+frozen fish fillet	3668
+surimi	3775
+roasted pepper	2893
+french roll	1565
+clove	142
+room temperature water	3779
+triple sec	551
+green seedless grape	1102
+mixed dipper	4986
+reduced-fat cream of mushroom soup	3847
+meyer lemon juice	3338
+brown rice	288
+graham cracker pie crust	883
+red pepper	128
+garlic mashed potato	4839
+lightly-salted butter	3442
+cauliflower	274
+watermelon juice	4013
+hydrogen peroxide	3901
+chinese duck sauce	4202
+hot horseradish	3741
+baking chocolate square	4888
+1% low-fat milk	432
+lemon flavoring	2975
+ice cream sandwich	3096
+coarse black pepper	357
+maple-flavored syrup	4382
+multi-grain flour	4095
+bulk italian sausage	1274
+chihuahua cheese	4436
+eggplant	243
+tamari soy sauce	1187
+hershey's syrup	3151
+tangerine juice	2560
+green leaf lettuce	1628
+creme fraiche	659
+enoki mushroom	3989
+instant butterscotch pudding mix	1956
+multicolored peppercorn	4910
+cloth	2696
+frozen light whipped topping	2731
+celery top	3798
+pan juices	4789
+cornbread mix	1376
+reduced-sodium beef broth	1960
+mild green chili	1095
+conch	4826
+tofu shirataki noodle	3727
+gem lettuce	4847
+dill pickle slice	1753
+sourdough crouton	4825
+unsweetened baking cocoa	1928
+medium-grain white rice	3276
+reduced-fat cheddar cheese	960
+chocolate cookie crumb	2680
+sardine	3312
+edible glitter	4542
+dry marsala wine	3094
+hot red chili	2118
+plain white flour	3114
+potato water	2903
+chicken noodle soup mix	4427
+instant chicken bouillon granule	1457
+instant coffee powder	1159
+chicken bouillon powder	1372
+sea bass fish fillet	2908
+frozen red raspberry	3530
+pineapple sherbet	3126
+red lentil	781
+lobster meat	1944
+asian chili sauce	2407
+sesame paste	4033
+bouillon cube	1320
+reduced-calorie margarine	1579
+flax seed	796
+duck	2239
+garam masala	389
+unsweetened flaked coconut	1953
+salad macaroni	3550
+raspberry flavored syrup	2791
+imitation lobster meat	4559
+tuna	343
+onion hamburger bun	3873
+pickle juice	1250
+taco seasoning mix	404
+spanish olive oil	3953
+snickers candy bar	2326
+seedless raspberry jam	1314
+tepid water	2677
+cocktail franks	2698
+lasagna noodle	420
+carob chip	2679
+lemon peel	84
+brie round	2208
+tagliatelle pasta noodle	2726
+mild curry powder	1670
+peel of 1 orange	5048
+au jus mix	2926
+granola cereal	1032
+ground paprika	1564
+v8 vegetable juice	1262
+chicken gravy mix	3363
+frozen french cheese tortellini	2650
+tony cachere's cajun seasoning	4947
+cheese tortellini	1143
+cranberry sauce	978
+frozen cherry	1930
+hamburger bun with sesame seed	1950
+dried date	2355
+dried italian salad dressing mix	2073
+pasta shell	920
+golden delicious apple	974
+fig	1047
+orange flower water	2271
+light beer	2125
+pepper	11
+potato chip	947
+top round roast	3397
+hard roll	2771
+prime rib roast	2707
+grape	1236
+halved lemon	4732
+cheez whiz	1234
+broccoli	191
+wheat	2580
+rice	108
+brown button mushroom	2666
+mixed peel	3084
+mixed bell pepper	4925
+clamato juice	3132
+english toffee bit	2590
+squid	2128
+cherry	701
+rose essence	4318
+red pepper flake	70
+clam	707
+lamb shank	1353
+andouille sausage	1108
+green enchilada sauce	1324
+sour orange juice	3921
+white horseradish	2292
+porterhouse steak	2884
+green giantmushroom	3971
+white kidney bean	1400
+dried greek oregano	4226
+mexican cheese blend	4827
+lean ground sirloin	2782
+green chili salsa	1935
+dark jamaican rum	4175
+cayenne pepper	59
+durkee fried onion	4968
+paprika	46
+idaho potato	3959
+black cherry	4302
+chocolate-covered raisin	3695
+kiwi	543
+converted white rice	3887
+caesar salad dressing	1301
+hot chili	1342
+thai sweet chili sauce	2024
+baked bean in tomato sauce	4346
+baby onion	2659
+meat tenderizer	2428
+leg of lamb	1060
+pickled ginger	1802
+jonathan apple	4317
+frozen vegetable	1126
+cheese ravioli	2521
+pure maple syrup	560
+sesame tahini	3418
+artichoke heart	347
+chocolate-covered english toffee bar	2552
+extract	3008
+soy margarine	2091
+ziti pasta	873
+carob powder	1999
+dried onion	813
+fettuccine pasta	408
+peppadew pepper	4824
+queso blanco	3328
+pickled beet	3130
+tarragon	340
+pork sausage link	3305
+mexican seasoning	3223
+low-sodium vegetable broth	1543
+dried red chili flake	3364
+cavender's all-purpose greek seasoning	2976
+dehydrated onion	2280
+granular fructose	4402
+frozen sweet corn	2065
+dried basil leaf	662
+miniature phyllo cup	2946
+soya oil	3657
+flour tortilla	164
+cream soda	2743
+marjoram	407
+thai red curry paste	1500
+white pepper powder	4300
+eggnog	1078
+colored sugar sprinkle	4495
+thickened cream	1218
+salted roasted peanut	1951
+tabasco sauce	161
+petite tomato	1484
+pepperidge farm herb stuffing	3372
+shoyu	2638
+sour cherry	2722
+dried garlic	2105
+whole oat	3331
+venison roast	3493
+maple extract	1215
+bulgur wheat	1520
+crab boil seasoning	4322
+semolina	1527
+tomato sauce	81
+butter lettuce leaf	4611
+italian pastina	4567
+rum extract	909
+dried black-eyed pea	2089
+garlic spread	4818
+black treacle	3912
+mandarin orange in juice	2705
+mint chocolate chip ice cream	3528
+miracle whip light	1843
+russet potato	301
+yogurt	434
+pork rib	1699
+buttery cracker	2360
+white chocolate wafer	4133
+whipped cream cheese	1660
+hershey's chocolate kiss	1644
+hominy	1646
+brown rice flour	1492
+peach slice	1708
+yukon gold potato	549
+whole-grain penne pasta	4740
+butter flavoring	1932
+grapes	3017
+sugar ice cream cone	3858
+ready-to-serve chicken broth	3976
+poppy seed filling	4564
+liquid soap	4080
+orange section	2121
+pure orange extract	4303
+sweet onion	211
+catsup	390
+fudge sauce	2774
+cortland apple	4942
+rotel tomato and green chili	2216
+low-fat kielbasa	3998
+ginger-garlic paste	1588
+ground ham	2665
+clear honey	1743
+fat-free ranch dressing	2784
+key lime juice	1064
+cream	171
+onion soup mix	349
+beef sirloin	1560
+unsweetened coconut milk	814
+sweet relish	1531
+cinnamon bark	3456
+ruby port	2014
+strong brewed coffee	1242
+ground sage	815
+rotisserie-cooked chicken	1615
+kool-aid	3152
+solid white tuna packed in water	2081
+popped corn	2171
+light maple syrup	3578
+green jelly	4978
+frozen rhubarb	1605
+ground basil	3540
+herb seasoned stuffing mix	1719
+frozen butter	3898
+frozen whole kernel corn	930
+low-fat vanilla frozen yogurt	3675
+black food coloring	4685
+soya sauce	704
+candied pineapple	2587
+green pimento stuffed olive	4172
+flat-leaf parsley sprig	4648
+butter flavor extract	2719
+cranberry-apple juice	4126
+pepperoncini pepper	1100
+spanish onion	729
+red grapes	4583
+sodium-free seasoning	2835
+horseradish mustard	3079
+pineapple chunk in syrup	4296
+coriander sprig	3265
+polenta	1188
+cardamom powder	1682
+coconut butter	3919
+braggs aminos	4756
+andes mint baking chip	4474
+thick yogurt	4645
+roasted sweet pepper	3502
+frozen blackberrie	2532
+coconut milk powder	4254
+hamburger patty	2779
+popcorn	1557
+ground sausage	1449
+unbleached all-purpose flour	394
+peanut	293
+pumpkin pie filling	1943
+heath candy bar	1933
+italian cut green bean	4293
+scotch	3608
+low-fat sharp cheddar cheese	3241
+mexican cheese	1706
+matzo meal	1235
+panko	506
+wholemeal self-rising flour	2332
+pork back rib	3026
+sucanat	2137
+lemon juice	13
+mixed vegetable	690
+pico de gallo	1798
+fajita seasoning mix	1480
+powdered egg white	4405
+superfine sugar	4241
+ranch dip	4900
+sea bass fish	3678
+semi-sweet chocolate chunk	1476
+lime slice	914
+mustard oil	3460
+apple pie spice	1311
+frozen broccoli carrot cauliflower mix	2197
+salt and lemon pepper	5030
+milk chocolate piece	3879
+vegetable bouillon cube	1120
+strawberry	111
+curly leaf lettuce	4541
+burgundy wine	1312
+garlic granule	758
+aged gouda cheese	4089
+old english cheese	4211
+cooking onion	2157
+dried italian seasoned breadcrumb	3003
+peach liqueur	3704
+ground salt	5042
+panir	2406
+vegetarian chili	4136
+frozen biscuit	792
+cream of broccoli soup	2347
+glycerin	2761
+limeade	3007
+cream-style corn	1002
+diet sprite	3512
+louisiana brand cajun seasoning	5000
+cookie crumb	3537
+low-fat greek yogurt	3706
+fat-free yogurt	1080
+distilled white vinegar	911
+snow pea sprout	3399
+quaker oat	1869
+balsamic vinegar	102
+green	1816
+chocolate pudding	2596
+feta cheese	147
+frozen mango	2303
+pasilla chili	3436
+baby portabella mushroom	1286
+vegetable soup mix	2442
+lemon pepper seasoning	1091
+ritz cracker	606
+sprinkle cinnamon	5026
+butter pecan cake mix	3101
+wasabi	2395
+dried new mexico chili	3064
+red pepper powder	3294
+mustard	125
+caribbean jerk seasoning	2646
+tea leaf	3207
+ground mixed spice	3801
+pickling salt	1122
+toasted coconut	1370
+frozen cut broccoli in cheese sauce	4435
+salt-free garlic powder	4487
+tuna in olive oil	2318
+cellophane noodle	2172
+spices	1382
+cachaca	3705
+cantaloupe ball	4477
+oyster	1193
+juice of orange	546
+nutter butter sandwich cookie	3993
+frozen noodle	4840
+root beer	1811
+key lime peel	3375
+millet	1762
+animal cracker	4045
+plain doritos	2483
+frying chicken	1267
+soup mix	3857
+nacho chip	3111
+hot water	182
+kernel corn	2031
+quick-cooking tapioca	1174
+wooden skewer	1164
+refried bean	425
+sweet bell pepper	2389
+standing rib roast	3652
+dried cranberry	251
+sugar-free instant chocolate pudding mix	1970
+light miso	4206
+smoked bacon	1115
+white bean	645
+roasted garlic	4538
+lean bacon	1371
+liver	3361
+currant jelly	2536
+grapefruit	1191
+club soda	631
+shiitake mushroom cap	2343
+halibut fish	2256
+rabbit	2642
+rice cake	4117
+cannellini bean	4639
+onion roll	3081
+french vanilla cool whip	4977
+ground marjoram	2458
+jarlsberg cheese	1766
+beef bouillon granule	833
+chicken broth	45
+beef top sirloin steak	4867
+butter-flavored non-stick cooking spray	4579
+mozzarella string cheese	2345
+frozen gnocchi	4164
+pineapple tidbit	717
+crema	4706
+hershey cocoa	3690
+frozen lima bean	1576
+lemon slice	576
+baby brie original cheese	4726
+table salt	492
+whole-wheat spaghetti	1584
+tapioca starch	1759
+chili seasoning mix	1240
+ditali pasta	4134
+flat mushroom	3324
+jiffy yellow cake mix	4193
+low-sodium tomato sauce	2717
+dark corn syrup	829
+hot red sauce	2755
+barley malt syrup	4565
+white shoepeg corn	1804
+oregano leaf	688
+pie pastry	1887
+turkish bay leaf	3701
+peanut butter morsel	3645
+fat-free beef broth	2584
+chocolate ganache	5015
+corn tortilla chip	1495
+pizza cheese	2500
+vermicelli	1166
+margarita salt	4659
+pasta noodle	3438
+seafood seasoning	1990
+biscuit dough	4616
+cake yeast	4508
+marsala	4819
+orange twist	4628
+blueberry	213
+romaine lettuce leaf	1247
+french fries	4608
+low-fat cheese	1838
+pure wesson canola oil	4367
+iced tea	3479
+rutabaga	1170
+robin hood nutri flour blend	4933
+parsnip	498
+ground meat	1840
+cream soup	2678
+sweet basil	1257
+chocolate frosting	1810
+toasted cumin seed	3419
+caramel syrup	2025
+minute brown rice	3991
+ground mustard	556
+smoked salmon	644
+yellow hominy	2814
+light sesame oil	3517
+pudding	3688
+frozen meatball	1448
+cheddar cheese	32
+dried black mushroom	4190
+baileys irish cream	4989
+cranberry juice cocktail	1337
+green chili sauce	3106
+beef eye round	2348
+soymilk lite	4593
+dry rub seasonings	4798
+lean beef chuck	4178
+italian sausage link	2757
+lox	4130
+wide egg noodle	653
+coconut flour	2569
+rhodes frozen roll	4401
+swordfish	3880
+cacao	3956
+orange blossom water	1683
+frozen strawberry in syrup	2721
+white chocolate chip	405
+raspberry sherbet	2377
+wakame seaweed	4862
+yellow rice	3254
+escarole	1587
+frozen baby lima bean	2392
+banana extract	2523
+pure pumpkin puree	3916
+shrimp stock	3407
+crepe	2970
+beef rump	4391
+soba noodle	1770
+angel food cake	1089
+soured milk	3385
+challah	2260
+chocolate candy bar	2056
+tostada	3413
+warm buttermilk	4076
+melted oleo	4404
+whole milk ricotta cheese	1581
+green olive with pimiento	4823
+square wonton wrapper	3877
+tomato with juice	574
+seed	3012
+clarified butter	1290
+puff pastry sheet	1785
+pretzel twists	4017
+oyster mushroom	1983
+low-fat chicken broth	1971
+semolina flour	2223
+whipped butter	3683
+juice and peel of lemon	795
+splenda granular	399
+applesauce	266
+anise extract	2386
+toasted nut	2869
+pot roast	2005
+banana pepper ring	4638
+frozen shredded hash browns	2290
+swede	2627
+pearl barley	675
+cocktail onion	4124
+truffle oil	3174
+veal scallop	3659
+chocolate syrup	396
+shrimp paste	2248
+lime twist	4609
+frozen sweetened strawberry	2434
+puff pastry shell	4891
+red pasta sauce	4084
+fermented black bean	3318
+spaghetti	250
+apricot fruit spread	4077
+frozen cranberry juice concentrate	2785
+cabbage kimchi	4892
+turkey cutlet	2660
+submarine bun	4499
+unsweetened flavored drink mix	3131
+chili flake	669
+hot chocolate powder	2074
+amarula cream liqueur	1396
+cheerios toasted oat cereal	1282
+pecan	62
+dark karo syrup	3985
+non-dairy whipped topping	1698
+coffee liqueur	1054
+rice wine vinegar	375
+ground red pepper	299
+meringue powder	3931
+garlic-flavored crouton	2281
+rotel tomato	663
+frozen reduced-calorie whipped topping	4122
+fat-free low-sodium chicken broth	1360
+chocolate cookie pie crust	2287
+fat-free vanilla yogurt	975
+reduced-sodium taco seasoning mix	4192
+cranberry-grape juice	4899
+garlic salt and pepper	4764
+butcher's string	4997
+tart apple	510
+angel food cake mix	2181
+fat-free powdered milk	1452
+coco lopez	2977
+mccormick's montreal brand steak seasoning	1155
+lipton tea bag	4814
+curly endive lettuce	3581
+gold tequila	2390
+unsalted butter	39
+white potato	841
+corn	150
+soy cheese	2709
+plain yogurt	187
+fine salt	4733
+picante sauce	702
+wooden craft stick	4974
+long-grain brown rice	1566
+brown lentil	1327
+peppermint schnapps	2233
+dry yeast	462
+white cabbage	2330
+wheat flour tortilla	2760
+wheat chex	2158
+candy sprinkle	1131
+fat-free egg substitute	1822
+salad oil	433
+mango powder	2593
+sharp american cheese	3358
+caravella limoncello	4492
+frozen cranberry	625
+red onion ring	3169
+white sesame seed	2411
+green pea	966
+refrigerated crescent dinner roll	477
+chili oil	1161
+tri-colored pasta	4288
+licorice string	3120
+extra lean ground turkey	4313
+tarragon sprig	4649
+tater tots	1595
+taco cheese	2772
+sourdough baguette	3915
+dried italian herb seasoning	1723
+smoked chicken	4509
+potato	38
+coarse sugar	1904
+dark beer	1207
+low-fat strawberry yogurt	4073
+caramel sauce	1491
+vanilla flavoring	1479
+green capicum	1271
+vegetable cooking spray	4629
+light honey	4425
+bacardi light rum	3649
+apple cider	416
+ginger beer	3117
+frozen bread dough	1350
+pizza dough	888
+mexican-style stewed tomato with jalapeno chili	4251
+scalloped potato mix	3202
+chicken-flavored ramen noodle	1713
+dried powdered milk	4298
+hormel chili	3624
+sugar-free chocolate syrup	2274
+liverwurst	4129
+candy cane	1651
+bugles original flavor snack	3285
+pre-mozzarella cheese	2322
+fried corn tortilla strip	4547
+liquid hot pepper sauce	3284
+pimento-stuffed green olive	2063
+low-sodium v8 juice	3529
+honey nut cheerios	3945
+mahi mahi fish	3605
+egg substitute	291
+dry southwest seasoning	4830
+brandy extract	3158
+mixed salad green	720
+solid shortening	2921
+dried lime	4669
+sweet corn	1020
+adzuki bean	3691
+grapeseed oil	4622
+italian bread	554
+croissant	2175
+in piece ginger	4766
+yellow capicum	2968
+self-rising cornmeal	2050
+szechuan hot bean sauce	3881
+parsley flake	401
+sambuca romana	3444
+potato starch	1035
+fennel leaf	3334
+top round beef	3087
+chocolate instant pudding	2077
+kohlrabi	2700
+white zinfandel wine	3662
+coconut pecan frosting	2988
+bratwurst	1433
+frozen mixed vegetable	503
+manchego cheese	1857
+green prawn	3415
+frozen stir fry vegetable	1993
+top sirloin roast	4413
+blue cheese	272
+vegetable shortening	450
+calvados	2426
+green zucchini	2224
+morton lite salt	3680
+dry white vermouth	3227
+unsweetened cocoa powder	273
+nutmeg	54
+rustic bread	4904
+rice noodle	1114
+tart shell	3140
+light teriyaki sauce	4272
+caramel candy	2861
+dragee	4784
+durkee onion	3910
+green tea powder	3072
+onion powder	106
+pastry dough	2097
+leftover ham	4453
+frozen corn	270
+ground pork sausage	3252
+sweet soy sauce	3164
+orange soda	3060
+green serrano chili	3942
+earl grey tea leaf	4612
+soda water	1559
+apple juice	276
+whipped cream	248
+non-alcoholic beer	4115
+sure-jell	3629
+irish butter	4927
+katakuriko	4801
+taro root	4532
+unsalted tomato sauce	1954
+frozen asparagus	2324
+whipped topping	468
+ranch dressing mix	727
+instant polenta	3377
+dream whip	1824
+besan	3500
+beef liver	2539
+cola	802
+peel of orange	1795
+white bread flour	1068
+roasted sesame oil	4448
+steak spice	4531
+sweet chili sauce	751
+low-fat cream of mushroom soup	2092
+red wine vinegar	109
+velveeta mexican cheese	2540
+banana leaf	3416
+vegan margarine	1523
+white chocolate liqueur	3719
+salted cashew	1245
+red onion	53
+celery seed	262
+new york strip steak	1920
+black walnut	2263
+unsalted tomato paste	2414
+carnaroli rice	4599
+ground veal	1201
+frozen chicken thigh	4466
+coke	1634
+pork	585
+kale	714
+hot buttered noodle	4794
+german sweet chocolate	3198
+licor 43	4463
+meringue	4885
+mortadella	2624
+dried summer savory	3640
+peach juice	2672
+frozen sugar snap pea	3300
+fennel seed	418
+granulated sugar	305
+pita pocket	2732
+cremini mushroom	698
+cajun spices	2078
+dark rye bread	3459
+cherry syrup	4445
+prune juice	4314
+mixed herb	1004
+wild rice	643
+shell macaroni	4601
+toasted rice cereal	4149
+chocolate pudding mix	2595
+dry ginger powder	4562
+purple onion	898
+peach jell-o	4274
+marshmallow	494
+pimento pepper	2603
+laughing cow cheese	3175
+reduced-sodium chicken broth	516
+corn oil	537
+mint sprig	730
+bamboo shoot	819
+liquid smoke	398
+apricot brandy	1631
+salad leaf	2568
+pork sirloin roast	3218
+almond flavored liqueur	3845
+bouquet garni	1862
+white port	4854
+pecorino romano cheese	931
+dill sprig	1883
+98% fat-free condensed cream of chicken soup	4932
+vegan mozzarella cheese	4635
+asian pear	3206
+apple cider vinegar	247
+smoked mozzarella cheese	1949
+paraffin wax	2227
+lipton onion soup mix	4540
+epazote	3828
+lemon gelatin	935
+cotton string	4791
+baking chocolate	1686
+marsala wine	825
+frozen edamame	2219
+dried sage	481
+frozen shortcrust pastry	3939
+ajwain	4151
+green pepper	64
+semi-sweet chocolate chip	133
+crab boil	3990
+vegetarian chicken broth	4397
+extra light olive oil	3430
+white creme de menthe	3325
+chocolate almond bark	3712
+chipotle chili in adobo sauce	402
+quick oat	519
+semi-sweet baking chocolate	1541
+sugar-free cool whip	4096
+multicolored sugar nonpareils	4696
+low-fat vanilla yogurt	903
+red burgundy wine	4020
+orange frosting	4768
+pappardelle pasta	3689
+puffed wheat cereal	3508
+baby pea	3480
+raw sugar	3434
+jellied cranberry sauce	1328
+lemon thyme	2420
+lamb chop	1462
+pickled caper	4713
+potato stick	4442
+soft tortilla	3541
+reduced-fat buttermilk	4860
+yellow wax bean	2993
+purple cabbage	2510
+banana pepper	1659
+chicken strip	2792
+frozen broccoli	391
+crisco vegetable oil	4928
+berry	1077
+french bread	296
+sweet orange	4859
+pickapeppa sauce	2916
+buttermilk baking mix	2485
+ground mustard powder	4075
+red sugar crystals	4618
+amaretto almond liqueur	3837
+toasted coconut flake	3369
+sour milk	1007
+dark cooking chocolate	4159
+skim milk ricotta cheese	3834
+brown mustard	1475
+condensed cream of chicken soup	620
+italian-style tomato	955
+chocolate wafer	2008
+apple schnapps	2472
+miniature peanut butter cup	2279
+taco sauce	843
+reserved turkey giblet	5065
+jiffy cornbread mix	1610
+frozen broccoli stem	3733
+cheese sauce	3173
+velveeta cheese	318
+bittersweet chocolate	431
+dry rub seasoning	4831
+minute steak	3981
+red bull energy drink	4682
+lean hamburger	1627
+pear	365
+pickle relish	1426
+blue cheese dressing	1750
+pomegranate molasses	2045
+steak-ums	4464
+rotel tomato and chili	1028
+wild rice mix	4163
+coffee ice cream	1727
+candied walnut	3829
+winter squash	2198
+oregano sprig	3525
+mini chocolate chip	665
+nutritional yeast	934
+hickory chip	3256
+raisin bread	2393
+pimento	809
+spiced rum	2076
+angel flake coconut	3388
+frozen puff pastry	723
+gruyere cheese	483
+fat-free sweetened condensed milk	1538
+undiluted evaporated milk	4109
+instant chocolate pudding mix	713
+yellow curry powder	4204
+instant yeast	828
+pink grapefruit juice	2479
+frozen collard green	4524
+corn beef hash	4410
+yellow bell pepper	348
+hard cheese	4872
+raspberry spreadable fruit	4426
+salsa verde	1460
+skirt steak	1347
+ground turkey breast	1141
+self-rising cornmeal mix	3882
+toffee piece	1153
+lean ground beef	137
+mixed candied fruit	3005
+saltine cracker	738
+bacon fat	1499
+flat-leaf parsley	209
+mini marshmallow	578
+prosciutto	484
+za'atar spice mix	2199
+cornbread	1445
+ground flax seed	742
+vanilla wafer cookie	2297
+flavoring	3083
+sausage patty	4398
+chinese egg noodle	3383
+baby corn	1367
+low-fat ricotta cheese	1305
+dark maple syrup	4483
+pineapple slice in juice	3685
+sriracha hot chili sauce	3262
+raspberry preserve	1104
+dry red wine	312
+ciabatta roll	2850
+almond extract	165
+chicken soup	3301
+summer slicing tomato	4384
+carrot baby food	3676
+salted butter	752
+fat-free sugar-free instant vanilla pudding mix	2744
+pure olive oil	2522
+caraway	4200
+chicken fat	3135
+ground buffalo meat	2511
+water-packed artichoke heart	1641
+toasted peanut	3509
+chia seed	3344
+endive	2915
+vegetarian broth	4393
+cream cheese spread	2236
+orange-infused vodka	4087
+sweet rice flour	2605
+shaped pasta	4533
+instant espresso	2906
+cheese-filled tortellini	3255
+sifted icing sugar	2139
+pea and carrot	3393
+cool whip	221
+cake flour	411
+gemelli pasta	3185
+madeira wine	1259
+dried dill weed	590
+mahi mahi fish fillet	1854
+club cracker	2969
+fennel	1220
+baby arugula	1906
+fiber one cereal	1873
+soya milk	3353
+neely's barbecue seasoning	4956
+bell pepper	175
+boston lettuce leaf	2889
+macadamia nut	548
+meatless spaghetti sauce	2614
+cake crumb	4419
+aspirin	4909
+yellow sweet onion	1996
+peach in juice	2493
+sweet italian sausage link	1911
+papaya	762
+non-stick vegetable oil cooking spray	3526
+chocolate protein powder	3826
+creme de noyaux	3703
+toast	1513
+hot chili oil	1761
+miniature semi-sweet chocolate chip	844
+kitchen string	4388
+ground ginger powder	3818
+sea salt	131
+amaretto	579
+condensed tomato soup	687
+chicken giblet	4546
+laughing cow light swiss cheese	3622
+gummy worms	4390
+kraft parmesan cheese	2044
+italian turkey sausage	1892
+hot chili powder	2052
+vanilla caramel	3058
+ice-cold water	1897
+mexican-style corn	1738
+frozen orange juice concentrate	567
+white fish	3908
+chicken	75
+strawberry pie filling	3732
+french-fried onion	695
+broccoli stem	2594
+tomato with green pepper and onion	4475
+buttermilk pancake mix	3820
+kaffir lime leaf	1157
+ice cube	223
+reduced-fat swiss cheese	3153
+shortcrust pastry	2042
+fusilli	4239
+baby spinach	351
+instant milk	4128
+champagne	1050
+graham flour	3856
+spanish chorizo sausage	4336
+beef roast	912
+dried navy bean	1621
+oleo	1055
+real vanilla	2860
+whole-wheat flour	113
+citrus zest	4771
+new potato	1316
+fat-free plain greek yogurt	4539
+country-style dijon mustard	2607
+medjool date	3176
+waffle	3694
+linseed	4722
+jalapeno chili slice	4621
+lard	756
+hamburger meat	1611
+soup can milk	3618
+2% low-fat milk	413
+grape juice	1793
+catalina dressing	1405
+tomato and jalapeno chili	2600
+bulgar wheat	4610
+boston lettuce	1752
+colored decorator sugar	2963
+red snapper	4575
+frozen southern style hash brown	2437
+light vegetable oil	3370
+butter-flavored cracker	1551
+salad dressing	634
+light rum	766
+frozen french fries	1982
+baking and pancake mix	3954
+broad egg noodle	2825
+lean ground chicken	2857
+french vanilla instant pudding	1735
+chanterelle mushroom	3698
+instant coconut pudding mix	4551
+miracle whip	453
+goat's cheese	3387
+onion soup	2905
+mascarpone cheese	600
+spring thyme	4882
+pancake syrup	2602
+black coffee	2182
+instant dry milk powder	3831
+heavy whipping cream	292
+peppercorn	505
+white cornmeal	1984
+chocolate sandwich style cookie	2883
+drained roasted red pepper	4174
+beef bone	3932
+lemonade mix	3203
+ground aniseed	2925
+fat-free blue cheese dressing	4320
+yellow potato	3246
+graham wafer	3441
+simple syrup	1079
+brown mustard seed	2082
+barbecue sauce	237
+arborio rice	604
+liquid	3431
+cream of potato soup	1506
+reduced-fat cheese	3609
+fontina cheese	929
+jerk seasoning	4637
+lean pork roast	4422
+galangal	1963
+bbq seasoning	4890
+mixed bean	3307
+fruit leather	4939
+roasted tomato	1674
+orecchiette pasta	2577
+thyme leave	677
+sun-dried tomato pesto	2383
+fat-free feta cheese	3564
+white candy coating	3220
+cedar plank	3599
+rye cocktail bread	2266
+seedless blackberry jam	4188
+plastic wrap	3729
+orange bitter	4309
+frozen brussels sprout	2012
+dijon mustard	61
+plum jam	2711
+dried hot red chili	2048
+melted shortening	2075
+reduced-fat cream of chicken soup	2243
+rubbed sage	915
+romano bean	4520
+salt and white pepper	3122
+cheesecake flavor instant pudding and pie filling	4510
+corn niblet	1612
+camomile tea	4944
+pickled cucumber	4812
+vanilla powder	2809
+sifted all-purpose flour	674
+hot coffee	4102
+curry powder	126
+sorghum flour	2526
+quick-cooking polenta	4230
+dried parsley	230
+urad dal	3222
+ground white pepper	1251
+roasted pine nut	3914
+spinach	166
+dumplings	4497
+fat-free cool whip	1306
+low-sodium taco seasoning	4958
+radiatore pasta	4808
+anjou pear	2586
+celery rib	146
+tea bag	917
+fruit chutney	2800
+light bread	4379
+butter bean	1072
+roquefort cheese	1600
+san marzano tomato	3957
+pepperoni	406
+veal cutlet	1912
+creme de cassis	2361
+blackening seasoning	2583
+baked russet potato	3379
+garlic-flavored olive oil	3376
+gram flour	2421
+chili-garlic sauce	1059
+hard peppermint candy	3582
+stone ground mustard	1846
+reduced-fat ricotta cheese	4198
+veggie bacon	4930
+spanish olive with pimento	2989
+mild cheese	3275
+drpepper cola	2748
+dried pinto bean	1477
+peach yogurt	2514
+saffron strand	1667
+chicory lettuce	4023
+lump crabmeat	773
+beefsteak tomato	1609
+plantain	1427
+dry curd cottage cheese	3987
+steamed milk	1979
+apple-smoked bacon	3943
+roasted sunflower seed	2277
+fig balsamic vinegar	4902
+black pepper	26
+turkey breast cutlet	3002
+grouper fish	4556
+dijonnaise mustard	3445
+currant	680
+unpopped popcorn	2817
+vanilla extract	31
+wooden stick	2967
+nestle toll house butterscotch-flavored morsel	4280
+garbanzo bean	459
+green plantain	3636
+hazelnut	626
+part-skim ricotta cheese	741
+alum	2378
+yeast extract	4203
+red new potato	4901
+date	302
+rotelle pasta	2062
+bacardi 151 rum	3547
+racks of lamb	2496
+milk chocolate melts	4489
+canola oil	86
+seasoning salt	145
+unsweetened dutch-processed cocoa powder	2844
+green onion top	3267
+passion fruit	2467
+whole-wheat linguine	4745
+tri-color spiral pasta	1821
+7-up	1287
+dried mint	823
+juice of lime	202
+matchstick carrot	4490
+instant beef bouillon	2190
+chard leaf	3423
+cumin	93
+white puree	4936
+salt-free all-purpose seasoning	4604
+pretzel rod	4960
+pizza topping	3189
+campari	2563
+white cake mix with pudding	4328
+dry seasoning	4774
+thai pepper	4273
+frozen coconut	3386
+thin pizza crust	3823
+whole-wheat cracker	4091
+hickory liquid smoke	4218
+onion and mushroom soup mix	3735
+coarse salt	285
+swiss brown mushroom	3621
+pecan nut	2296
+mandarin orange segments	5041
+thai green curry paste	3427
+sprite	1103
+round sourdough loaf	3696
+yellow squash	444
+saffron strands	4675
+liquid pectin	1678
+mango-flavored rum	4227
+fat-free vanilla frozen yogurt	2463
+water cracker	4710
+pan dripping	3410
+thai fish sauce	1547
+unbleached cane sugar	1977
+guinness stout	1408
+ground clove	152
+red glazed cherry	4804
+hidden valley ranch dressing mix	1275
+salt and black pepper	362
+imitation crabmeat	848
+whole-wheat penne pasta	1839
+manicotti pasta	4811
+barbecue seasoning	3475
+romaine lettuce	298
+msg	1225
+mango nectar	1725
+maraschino cherry juice	1658
+gingersnap crumb	2708
+lamb stew meat	2870
+velveeta reduced-fat cheese product	2001
+dried celery flake	2167
+matzo	2882
+dried sweet basil leaf	2114
+bologna	2229
+tiger shrimp	2991
+mild honey	3247
+melba toast	3029
+wide rice noodle	4158
+honey dijon mustard	1969
+hot red pepper flake	949
+liquor	4514
+light mayonnaise	479
+instant tea	2686
+instant tea powder	3572
+kabocha squash	4225
+cabernet sauvignon wine	2258
+cheese cloth	5009
+smoked fish fillet	4821
+low-sodium tomato	3362
+dry red pepper	1142
+unrefined sugar	4395
+low-fat mozzarella cheese	1288
+sirloin	1468
+green sprinkle	4705
+corn mixed with pepper	3390
+lemon balm	3570
+dashi stock	4363
+vegetarian worcestershire sauce	3469
+dry vermouth	1073
+dried rosemary leaf	1505
+shelled edamame	4896
+prune	870
+creamed corn	397
+shell pasta	747
+mushroom broth	4950
+whole-wheat pastry flour	718
+low-fat ricotta	3309
+lamb	874
+campbell southwest-style pepper jack soup	4479
+raspberry chipotle sauce	4921
+portabella mushroom cap	1226
+deli corned beef	2907
+flour	9
+ground oregano	1190
+cooking oil	228
+barbecue potato chip	4715
+coffee filter	4643
+ground vanilla bean	3840
+sifted powdered sugar	679
+cream of chicken soup	185
+custard powder	1968
+plain soy yogurt	3911
+chinese cabbage	1481
+okra	1092
+frozen broccoli cuts	2553
+low-fat whipped cream cheese	4835
+poultry	4004
+garlic	4
+baked pastry shell	2203
+ground celery seed	2446
+crystal hot sauce	4500
+goldfish cracker	3809
+ground sumac	2759
+long green chili	2948
+leftover roast beef	4416
+pimiento	410
+flank steak	530
+orange zest	2201
+glycerine	3211
+chicken portion	4394
+tomato bisque soup	4332
+chorizo sausage	640
+double crust pie crust	2036
+texas pete	4005
+coffee extract	4310
+cinnamon graham cracker crumb	4917
+soft tofu	1779
+cocktail smoked sausage link	4431
+xanthan gum	875
+avocado	136
+berry cranberry sauce	693
+topping	1194
+mixed candy	4728
+cinnamon-sugar mixture	1965
+marmite	2852
+dried hot chili	3270
+accent seasoning	1011
+frozen sweetened raspberry	4456
+sugar-free vanilla ice cream	2813
+cranberry	310
+curacao	3236
+apple brandy	3562
+grana padano	3950
+turkey stock	3188
+tandoori paste	3660
+english cucumber	638
+ham slice	2484
+chuck roast	746
+almond brickle chip	2787
+beef mince	1910
+frozen egg noodle	3995
+watercress leaf	2247
+dried split green pea	3244
+sweet wine	3860
+gravy mix	4642
+fat-free half-and-half	858
+ranch style bean	1450
+butter bud	3163
+garlic bread	4624
+beetroot	1676
+shiitake mushroom	581
+wasabi paste	1712
+skim milk powder	1961
+toasted pecan	788
+chocolate curls	830
+fresca soda	4006
+rose wine	2497
+red-hot candy	2110
+milk chocolate candy kiss	2767
+soybean	3872
+calf liver	3193
+ground walnut	1508
+extra firm tofu	827
+green bell pepper	96
+toasted crouton	4780
+sea salt and pepper	2796
+chipotle salsa	4215
+oven cooking bag	4177
+golden mushroom soup	3195
+thai peanut sauce	4212
+hummus	1583
+fruit yogurt	4282
+tea	2504
+dried lemon peel	2914
+orange sherbet	1536
+breadcrumb	97
+arugula leaf	1879
+refrigerated buttermilk biscuit	907
+chicken base	1392
+ground cardamom	367
+smoked ham hock	1657
+colby cheese	989
+vanilla yogurt	664
+ground fenugreek	2163
+vinaigrette dressing	2288
+braggs liquid aminos	1454
+butter substitute	3329
+toasted almond	673
+frozen creamed spinach	2918
+pinot noir wine	3815
+tabasco chipotle pepper sauce	2515
+salt and sugar	5054
+roasted corn	4943
+soft margarine	1794
+pastry flour	2124
+whipped light cream	4806
+hot chicken stock	2349
+frozen oriental-style vegetable	3784
+brewed espresso	1772
+fat-free parmesan cheese	2382
+flax seed oil	2085
+cantaloupe	737
+au gratin potato	3896
+frozen chicken tenders	4924
+multi-grain hot cereal	4736
+ortega green chili	3755
+potato flour	2381
+margarita mix	2436
+dried red pepper	1913
+sherry wine	322
+baharat	3516
+yellow miso	4278
+peach halve	4359
+spanish chorizo	4636
+pasta dough	4796
+scotch bonnet pepper	1431
+frozen crabmeat	2810
+smoked turkey breast	2997
+no-boil lasagna noodle	1593
+peach in light syrup	2890
+minute white rice	2920
+bay shrimp	3583
+jelly	1561
+white cheese	3082
+white navy bean	465
+dried coconut	691
+crescent roll	784
+pizza seasoning	3059
+center-cut pork chop	1116
+dried papaya	4597
+mackerel	4294
+quick-cooking oatmeal	1112
+warm water	170
+hard salami	1715
+caesar-flavor crouton	3944
+frozen white bread dough	2662
+ginger ale	599
+chicken and rice soup	3452
+copha	3404
+microwave popcorn	2561
+frozen asparagus cuts	4287
+thyme leaf	559
+miniature chocolate chip	1467
+lean pork chop	2461
+asadero cheese	3718
+seedless cucumber	1333
+cherry jell-o	1875
+lemon pepper	445
