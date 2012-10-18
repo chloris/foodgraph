@@ -49,7 +49,7 @@ function draw(id) {
     graph = new Graph();
 
     var r = all[id],
-        rNode = graph.newNode({ id: id, label: r.name, image: r.src }),
+        rNode = graph.newNode({ id: id, label: r.name, image: r.img.replace('large', 'small') }),
         tmp,
         tmpNode,
         pairs = r.pairs;
@@ -59,7 +59,7 @@ function draw(id) {
         tmpNode = graph.newNode({
             id: tmp.id,
             label: tmp.name,
-            image: tmp.src
+            image: tmp.img.replace('large', 'small')
         });
 
         graph.newEdge(rNode, tmpNode, { color: '#444444', directional: false });

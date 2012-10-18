@@ -41,6 +41,7 @@ jQuery.fn.springy = function(params) {
 	// calculate bounding box of graph layout.. with ease-in
 	var currentBB = layout.getBoundingBox();
 	var targetBB = {bottomleft: new Vector(-2, -2), topright: new Vector(2, 2)};
+    var TWO_PI = 2 * Math.PI;
 
 	// auto adjusting bounding box
 	Layout.requestAnimationFrame(function adjust() {
@@ -262,7 +263,7 @@ jQuery.fn.springy = function(params) {
                 img.title = data.label;
                 ctx.beginPath();
                 radius = img.width < img.height ? img.width/2 : img.height/2;
-                ctx.arc(s.x + radius, s.y + radius, radius, 0, 2 * Math.PI, false);
+                ctx.arc(s.x + radius, s.y + radius, radius, 0, TWO_PI, false);
                 ctx.clip();
                 ctx.drawImage(img, s.x, s.y);
             }
