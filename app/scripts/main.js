@@ -34,10 +34,18 @@ $.getJSON('/conf/ingredients.json', function (data) {
             return r;
         }
     });
+
+    ingr.on('change', 'li', function (e) {
+        if ('checked' === $(e.target).attr('checked')) {
+            // checked
+        } else {
+            // unchecked
+        }
+    });
 });
 
 function draw(id) {
-    if (springy && 'function' === typeof springy.clear) { console.log('clear'); springy.clear(); }
+    if (springy && 'function' === typeof springy.clear) { springy.clear(); }
     graph = new Graph();
 
     var r = all[id],
@@ -61,7 +69,14 @@ function draw(id) {
         springy = jQuery('#springydemo').springy({
             graph: graph,
             nodeSelected: function(node) {
-                draw(node.id);
+                var data = all[node.id],
+                    modal = $('#recipeModal'),
+                    head = $('#recipeModal .modal-header'),
+                    body = $('#recipeModal .modal-body');
+
+                head.html(data.name);
+                body.html('<ul><li>' + data.dir.join('</li><li>') + '</li></ul>' + '<img src="' + data.img + '" alt="' + data.name + '"/>');
+                modal.modal('show');
             }
         });
     });
