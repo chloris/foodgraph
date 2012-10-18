@@ -8,38 +8,69 @@ require.config({
     jquery: 'vendor/jquery.min'
   }
 });
- 
-require(['app'], function(app) {
-    var graph = new Graph(),
-        s1 = graph.newNode({ label: '綠咖哩起士烤鮮魚', image: '/images/s1.jpg' } ),
-        s2 = graph.newNode({ label: '沙嗲活菌豬串燒', image: '/images/s2.jpg' } ),
-        s3 = graph.newNode({ label: '起士焗烤蟹肉', image: '/images/s3.jpg' } ),
-        s4 = graph.newNode({ label: '培根起士焗磨菇', image: '/images/s4.jpg' } ),
-        s5 = graph.newNode({ label: '義式生牛肉', image: '/images/s5.jpg' } ),
-        s6 = graph.newNode({ label: '煙燻鮭魚沙拉', image: '/images/s6.jpg' } ),
-        s7 = graph.newNode({ label: '義大利香煎雞柳', image: '/images/s7.jpg' } );
 
-    graph.newEdge(s1, s2, { color: '#333333', directional: false });
-    graph.newEdge(s1, s3, { color: '#333333', directional: false });
-    graph.newEdge(s1, s5, { color: '#333333', directional: false });
-    graph.newEdge(s2, s5, { color: '#333333', directional: false });
-    graph.newEdge(s2, s6, { color: '#333333', directional: false });
-    graph.newEdge(s3, s4, { color: '#333333', directional: false });
-    graph.newEdge(s3, s5, { color: '#333333', directional: false });
-    graph.newEdge(s3, s7, { color: '#333333', directional: false });
-    graph.newEdge(s4, s6, { color: '#333333', directional: false });
-    graph.newEdge(s5, s7, { color: '#333333', directional: false });
+var graph,
+    springy,
+    all,
+    gid = 1,
+    ingredients;
+
+$.getJSON('/conf/ingredients.json', function (data) {
+    var ingr = $('#ingr'),
+        tmpl = '<li>' +
+            '<input type="checkbox" id="{id}" name="{name}" value="{name}" checked="checked">' +
+            '<label for="{id}">{label}</label>' +
+        '</li>';
+
+    $('#query').typeahead({
+        source: data,
+        updater: function (r) {
+            var html = ingr.html(),
+            id = gid++,
+            label = r.length > 25 ? r.substring(0, 25) + '...' : r;
+
+            ingr.html(html + tmpl.replace(/{id}/g, 's' + id).replace(/{name}/g, r).replace(/{label}/g, label));
+
+            return r;
+        }
+    });
+});
+
+function draw(id) {
+    if (springy && 'function' === typeof springy.clear) { console.log('clear'); springy.clear(); }
+    graph = new Graph();
+
+    var r = all[id],
+        rNode = graph.newNode({ id: id, label: r.name, image: r.src }),
+        tmp,
+        tmpNode,
+        pairs = r.pairs;
+
+    for (var p in pairs) {
+        tmp = all[p];
+        tmpNode = graph.newNode({
+            id: tmp.id,
+            label: tmp.name,
+            image: tmp.src
+        });
+
+        graph.newEdge(rNode, tmpNode, { color: '#444444', directional: false });
+    }
 
     jQuery(function(){
-        var springy = jQuery('#springydemo').springy({
+        springy = jQuery('#springydemo').springy({
             graph: graph,
             nodeSelected: function(node) {
-                var s8 = graph.newNode({ label: '煙燻鮭魚沙拉 1', image: '/images/s6.jpg' }),
-                    s9 = graph.newNode({ label: '煙燻鮭魚沙拉 2', image: '/images/s6.jpg' });
-
-                graph.newEdge(s6, s8, { color: '#ff0000', directional: false });
-                graph.newEdge(s6, s9, { color: '#ff0000', directional: false });
+                draw(node.id);
             }
         });
+    });
+}
+
+$.getJSON('/conf/all.json', function (result) {
+    all = result;
+
+    require(['app'], function(app) {
+        draw('49');
     });
 });

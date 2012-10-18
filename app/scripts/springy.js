@@ -88,7 +88,7 @@ Graph.prototype.addEdge = function(edge) {
 };
 
 Graph.prototype.newNode = function(data) {
-	var node = new Node(this.nextNodeId++, data);
+	var node = new Node(data.id, data);
 	this.addNode(node);
 	return node;
 };

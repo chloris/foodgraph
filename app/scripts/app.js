@@ -1,3 +1,3 @@
 define([], function() {
-  return 'Hello from Yeoman!';
+    return 'app';
 });

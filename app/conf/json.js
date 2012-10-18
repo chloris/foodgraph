@@ -33,19 +33,21 @@ graph.forEach(function (g) {
 });
 
 console.log('converting to a single json file');
-var rs = [],
+var rs = {},
     r;
 
 for (var i = 0, len = meta.length; i < len; i++) {
     m = meta[i];
-    rs.push({
-        id: m.id,
-        name: m.name,
-        ingr: m.d,
-        dir: m.s,
-        img: images[m.id],
-        pairs: pairs[m.id]
-    });
+    if (m.id) {
+        rs[m.id] = {
+            id: m.id,
+            name: m.name,
+            ingr: m.d,
+            dir: m.s,
+            img: images[m.id],
+            pairs: pairs[m.id]
+        };
+    }
 }
 
 console.log('writing to all.json');
