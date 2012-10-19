@@ -23,6 +23,7 @@ TODO
 4. display a set of dishes in a group
 5. beautify results, stay tuned
 6. integrate ingredience search API
+7. added edge for root node siblings [P1]
 
 BUGS
 ====

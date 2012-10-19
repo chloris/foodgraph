@@ -78,22 +78,22 @@ jQuery.fn.springy = function(params) {
 	var dragged = null;
 
 	jQuery(canvas).mousedown(function(e) {
-		jQuery('.actions').hide();
+        jQuery('.actions').hide();
 
-		var pos = jQuery(this).offset();
-		var p = fromScreen({x: e.pageX - pos.left, y: e.pageY - pos.top});
-		selected = nearest = dragged = layout.nearest(p);
+        var pos = jQuery(this).offset();
+        var p = fromScreen({x: e.pageX - pos.left, y: e.pageY - pos.top});
+        selected = nearest = dragged = layout.nearest(p);
 
-		if (selected.node !== null) {
-			// Part of the same bug mentioned later. Store the previous mass
-			// before upscaling it for dragging.
-			dragged.point.m = 10000.0;
+        if (selected.node !== null) {
+            // Part of the same bug mentioned later. Store the previous mass
+            // before upscaling it for dragging.
+            dragged.point.m = 10000.0;
 
             // Call the nodeSelected code passed during initialization
-            nodeSelected(selected.node);
-		}
+            nodeSelected(selected.node, e.which);
+        }
 
-		renderer.start();
+        renderer.start();
 	});
 
 	jQuery(canvas).mousemove(function(e) {
@@ -236,7 +236,7 @@ jQuery.fn.springy = function(params) {
 			var boxHeight = node.getHeight();
 
 			// fill background
-			ctx.clearRect(s.x - boxWidth/2, s.y - 10, boxWidth, 20);
+			ctx.clearRect(s.x, s.y, boxWidth, 20);
 
 			// fill background
 			if (selected !== null && nearest.node !== null && selected.node.id === node.id) {
@@ -247,24 +247,22 @@ jQuery.fn.springy = function(params) {
 				ctx.fillStyle = "#FFFFFF";
 			}
 
-			ctx.fillRect(s.x - boxWidth/2, s.y - 10, boxWidth, 20);
-
 			ctx.textAlign = "left";
 			ctx.textBaseline = "top";
-			ctx.font = "16px Verdana, sans-serif";
-			ctx.fillStyle = "#000000";
-			ctx.font = "16px Verdana, sans-serif";
+			ctx.font = "16px Georgia, sans-serif";
+			ctx.fillStyle = "#0000ff";
+			ctx.font = "16px Georgia, sans-serif";
 			var text = typeof(data.label) !== 'undefined' ? node.data.label : node.id;
-			ctx.fillText(text, s.x - boxWidth/2 + 5, s.y - 8);
+			ctx.fillText(text, s.x, s.y - 20);
 
             if (typeof(data.image) !== 'undefined') {
                 img = new Image();
                 img.src = data.image;
                 img.title = data.label;
-                ctx.beginPath();
-                radius = img.width < img.height ? img.width/2 : img.height/2;
-                ctx.arc(s.x + radius, s.y + radius, radius, 0, TWO_PI, false);
-                ctx.clip();
+//                ctx.beginPath();
+//                radius = img.width < img.height ? img.width/2 : img.height/2;
+//                ctx.arc(s.x + radius, s.y + radius, radius, 0, TWO_PI, false);
+//                ctx.clip();
                 ctx.drawImage(img, s.x, s.y);
             }
 

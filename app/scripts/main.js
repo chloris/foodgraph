@@ -67,20 +67,34 @@ function draw(id) {
     jQuery(function(){
         springy = jQuery('#springydemo').springy({
             graph: graph,
-            nodeSelected: function(node) {
-                var data = all[node.id],
-                    modal = $('#recipeModal'),
-                    head = $('#recipeModal .modal-header'),
-                    body = $('#recipeModal .modal-body');
+            nodeSelected: function(node, dir) {
+                function showRecipe() {
+                    var data = all[node.id],
+                        modal = $('#recipeModal'),
+                        head = $('#recipeModal .modal-header'),
+                        body = $('#recipeModal .modal-body');
 
-                head.html(data.name);
-                body.html('<ul><li>' +
-                    data.dir.join('</li><li>') + '</li></ul>' +
-                    '<ul class="ingr"><li>' +
-                    data.ingr.join('</li><li>') + '</li></ul>' +
-                    '<img src="' + data.img + '" alt="' + data.name + '"/>'
-                );
-                modal.modal('show');
+                    head.html(data.name);
+                    body.html('<ul><li>' +
+                        data.dir.join('</li><li>') + '</li></ul>' +
+                        '<ul class="ingr"><li>' +
+                        data.ingr.join('</li><li>') + '</li></ul>' +
+                        '<img src="' + data.img + '" alt="' + data.name + '"/>'
+                    );
+                    modal.modal('show');
+                }
+
+                switch (dir) {
+                case 1:
+                case 2:
+                    // do nothing
+                    break;
+                case 3:
+                    showRecipe();
+                    break;
+                default:
+                    // do nothing
+                }
             }
         });
     });
