@@ -22,3 +22,10 @@ TODO
 3. <del>add event listener while clicking node / edge</del>
 4. display a set of dishes in a group
 5. beautify results, stay tuned
+6. integrate ingredience search API
+
+BUGS
+====
+1. checkbox should be persistent and removed automatically
+2. drop radial image and use square instead
+3. fix java OutOfMemory
