@@ -74,7 +74,12 @@ function draw(id) {
                     body = $('#recipeModal .modal-body');
 
                 head.html(data.name);
-                body.html('<ul><li>' + data.dir.join('</li><li>') + '</li></ul>' + '<img src="' + data.img + '" alt="' + data.name + '"/>');
+                body.html('<ul><li>' +
+                    data.dir.join('</li><li>') + '</li></ul>' +
+                    '<ul class="ingr"><li>' +
+                    data.ingr.join('</li><li>') + '</li></ul>' +
+                    '<img src="' + data.img + '" alt="' + data.name + '"/>'
+                );
                 modal.modal('show');
             }
         });
